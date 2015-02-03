@@ -1,6 +1,6 @@
 package ca.uwo.csd.cogeng.textdenoising;
 /**
- * Class to represent a directory
+ * BAAAAAAAAAAAClass to represent a directory
  * @author Rushdi Shams
  * @version 3.0 (Major optimization applied January 20 2015
  *
