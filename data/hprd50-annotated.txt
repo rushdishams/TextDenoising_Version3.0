@@ -1,0 +1,145 @@
+No	Cloning and characterization of two evolutionarily conserved subunits (PROT and PROT) of human PROT and their involvement in functional interactions with TFIIIB and RNA polymerase III.
+Yes	Identification of residues in the PROT that contact the MCP-1 receptor, PROT.
+No	The receptor binding site of PROT also is significantly different from the binding sites of PROT and PROT, providing insight into the issue of receptor specificity.
+Yes	It was previously shown that the N-terminus of PROT is critical for binding PROT.
+Yes	To identify the regions of PROT that contact its receptor, PROT, we substituted all surface-exposed residues with alanine.
+No	We tested this point by cotransfecting CHO cells with the genes encoding F beta alpha and the PROT subunit or the PROT alpha and PROT monomer.
+No	The formation of a functional single chain/subunit complex was not restricted to the FSH single chain/PROT subunit since CG single chain interacts with the monomeric PROT subunit and exhibits FSH activity.
+No	This is relevant for the case of LH and FSH, because both are synthesized in the same cell (i.e., pituitary gonadotrophs) and several of the alpha subunit sequences required for association with either the PROT or PROT subunits are different.
+No	Previously, we showed that the PROT or PROT subunit genes can be genetically fused to the alpha gene to produce biologically active single chains, PROT alpha and F beta alpha, respectively.
+Yes	PROT activates PROT, which inhibits apoptosis in human prostate cancer cell lines.
+No	RESULTS: Tyrosine phosphorylation of p85 is upregulated by PROT in both LNCaP and PROT.
+Yes	PROT promotes coprecipitation of p85 with PROT, the signal-transducing component of the PROT receptor.
+No	In solution, FGFR4ed formed complexes with PROT and PROT, both in the presence and absence of heparin.
+Yes	Immobilized PROT also bound PROT besides PROT and PROT.
+Yes	PROT regulates beta-2 integrin-mediated adhesion through both ARF-GEF function and interaction with PROT.
+Yes	Here we provide evidence of how PROT, an integrin-binding protein and guanine-nucleotide exchange factor (GEF) for PROT GTPases, regulates cell adhesion.
+Yes	Mutational analyses of the beta-2 cytoplasmic domain revealed that the adhesive function of PROT depends on its interaction with PROT, unless the integrin is activated by exogenous divalent cations.
+Yes	Secondly, PROT induces expression of an extracellular activation epitope of PROT, and the exchange factor function is not essential for this activity.
+Yes	In contrast, LFA-1-mediated cell adhesion and spreading on intercellular cell adhesion molecule 1 is strongly inhibited by a PROT mutant, which fails to catalyze PROT GDP-GTP exchange in vitro.
+Yes	Thus, PROT is involved in the activation of PROT, most probably through direct interaction with the integrin, and induces cell spreading by its ARF-GEF activity.
+No	Regulation of neutrophil adhesion by pituitary growth hormone accompanies tyrosine phosphorylation of PROT, p125FAK, and PROT.
+No	These results suggest that pituitary GH modulates neutrophil adhesion through tyrosine phosphorylation of PROT, p125FAK, and PROT and actin polymerization.
+No	Pituitary GH triggered the tyrosine phosphorylation of PROT (PROT) and PROT in neutrophils.
+No	Preincubation with genistein, a tyrosine kinase inhibitor, blocked the GH-stimulated adhesion and PROT, PROT, p125FAK, and PROT phosphorylation.
+Yes	Immunoprecipitation experiments revealed a physical association of PROT with p125FAK via PROT in vivo.
+Yes	Suppression of rat thromboxane synthase gene transcription by PROT in macrophages via an interaction with PROT.
+No	Deletion analysis showed that the element responsible for the PPARgamma effect is located in a region containing the nuclear factor E2 (PROT)/PROT site (-98/-88), which was indicated to be the major promoter of the TXS gene.
+No	By electrophoretic mobility shift assay using the PROT/PROT site and nuclear extracts from macrophages, we observed a specific protein-DNA complex formation, which was inhibited by a specific antibody against the transcription factor PROT (PROT-related factor 2).
+No	Finally, a direct interaction between PPARgamma and PROT was confirmed by PROT pull-down assay.
+No	By constructing deletion mutants, we identified that amino acid residues 229-309 of Akt were involved in the binding to PROT and amino acid residues 327-340 of PROTbeta were involved in the binding to Akt.
+No	Here, we cloned and characterized a mouse orthologue of human PROT protein as an atypical PROT (named PROT XIII).
+No	Subcellular fractionation and antibody-uptake experiments indicate that PROT is indeed a type-I membrane protein, but, unlike other PROT isoforms, lacks an N-terminal extracellular domain.
+Yes	Cutting edge: PROT functions as a T cell counterreceptor for the macrophage adhesion receptor PROT (PROT).
+No	The 130- and 240-kDa sialoadhesin-binding glycoproteins were identified as the sialomucins PROT and PROT (PROT), respectively.
+Yes	PROT expressed in COS cells supported increased binding to immobilized PROT.
+Yes	Finally, PROT bound different glycoforms of PROT expressed in Chinese hamster ovary cells, including unbranched (core 1) and branched (core 2) O:-linked glycans, that are normally found on PROT in resting and activated T cells, respectively.
+Yes	These results identify PROT as a T cell counterreceptor for PROT and suggest that in addition to its anti-adhesive role PROT may promote cell-cell interactions.
+Yes	Direct interaction between the cytoplasmic tail of PROT and the Src homology 3 domain of PROT activates PROT in C2C12 cells.
+Yes	This suggests that transmembrane PROT, by providing docking sites for the Src homology 3 domain of PROT, activates PI 3-kinase by mediating its recruitment to the membrane.
+Yes	PROT binds to the C-terminal SH2 domain of PROT and inhibits its enzymatic activity.
+Yes	In this report, we demonstrate the stable association of PROT with PROT in a clathrin-coated vesicle complex, which not only binds to the carboxyl-terminal SH2 domain of PROT, but also inhibits its enzymatic activity in a dose-dependent manner.
+Yes	Here we demonstrate colocalization and direct interaction between PROT and PROT.
+Yes	Overexpression of PROT results in a zinc finger-dependent localization of a PROT isoform and dynactin to MT bundles, raising the possibility that PROT and PROT regulate dynein/dynactin binding to MTs.
+Yes	This work suggests that PROT is a regulated adapter between PROT and cytoplasmic dynein at sites involved in cargo-MT loading, and/or in the control of MT dynamics.
+No	PROT and PROT: multifunctional endocytic receptors.
+Yes	PROT and PROT are two structurally different endocytic receptors that interact to serve such functions.
+Yes	Physical association of PROT with PROT, a novel glycosylphosphatidylinositol-anchored protein with potential for regulating adhesion and migration.
+Yes	To clarify the mechanisms by which PROT functions on leukocytes, we explored the possibility of its physical association with PROT which is important for leukocyte adherence, locomotion, and extravasation.
+Yes	PROT, detected by anti-CD18 mAb, was coprecipitated with PROT from human neutrophil lysates by a mAb to PROT.
+Yes	In addition, PROT was immunoprecipitated from human neutrophil lysates by anti-human PROT mAb.
+Yes	These results clearly show that PROT is physically associated with PROT in human neutrophils.
+Yes	PROT and PROT are PROT/cyclinB1 kinase inhibitors with a role in S and G2/M cell cycle checkpoints induced by genotoxic stress.
+No	PROT (PROT), PROTb (PROT), and PROTg (PROT) constitute a family of evolutionarily conserved, small, acidic, nuclear proteins, which have been implicated in terminal differentiation, growth suppression, and apoptosis.
+Yes	Recent evidence has implicated PROT in inhibition of PROT/cyclinB1 kinase and in G2/M cell cycle arrest.
+Yes	Yet, whether PROT and/or PROT function as inhibitors of PROT/cyclinB1 kinase and/or play a role in G2/M cell cycle arrest has not been fully established.
+Yes	In this work, we show that PROT and PROT specifically interact with the PROT/CyclinB1 complex, but not with other Cdk/Cyclin complexes, in vitro and in vivo.
+Yes	Data also has been obtained that PROT and PROT, as well as PROT, interact with both PROT and cyclinB1, resulting in inhibition of the kinase activity of the PROT/cyclinB1 complex.
+Yes	Inhibition of PROT/cyclinB1 kinase activity by PROT and PROT was found to involve disruption of the complex, whereas PROT did not disrupt the complex.
+No	PROT (type II isozyme) contains a PROT homology domain at the N terminus and a sterile alpha motif domain at the C terminus.
+Yes	The transmembrane PROT PROT interacts with PROT.
+No	The PROT PROT, also known as PROT, is expressed predominantly in epithelial cells, in a variety of tumor cell lines, and in lymphocytes.
+Yes	PROT also interacted with other members of the catenin gene family including PROT and gamma-catenin.
+No	The interaction with PROT is likely to be direct, as the interaction occurs in K562 cells lacking functional adherens junctions and PROT expression.
+No	Catalytic domains of the tyrosine phosphatases PROT, PROT, and PTPbeta did not interact with proteins of the catenin family to detectable levels, suggesting that the interaction of PROT with these proteins is specific.
+Yes	PROT/PROT ('PROT')-binding protein (CBP) modulates co-operation between myocyte enhancer factor 2A (PROT) and thyroid hormone receptor-retinoid X receptor.
+No	PROT/PROT ('PROT')-binding protein (CBP) interacting with transcription factors is able to increase their activity on target gene promoters.
+Yes	Our findings showed that the same C-terminal portion of PROT binds the N-terminal domains of both TR and PROT, and our in vivo studies demonstrated that TR, PROT and PROT form a ternary complex.
+Yes	The human PROT and PROT proteins form a ternary complex with hMpp10, which only interacts with the U3 PROT in 60-80S ribonucleoprotein complexes.
+No	We have cloned cDNAs encoding the human and mouse homologs of the yeast U3 snoRNP-associated proteins PROT and PROT.
+No	The results of complementation experiments show that, in contrast to mouse PROT, mouse PROT can partially alleviate the growth defect of the corresponding yeast null strain, indicating that the role of PROT in pre-rRNA processing is evolutionarily conserved.
+Yes	The results of density gradient centrifugation experiments show that, in contrast to hU3-55K, the human PROT and PROT proteins predominantly interact with the U3 PROT in 60-80S ribonucleoprotein complexes.
+Yes	In the present study, we observed evidence of cross-talk between the cannabinoid receptor PROT and the PROT (PROT) using a heterologous system.
+No	In contrast to PROT, the potency of direct activation of PROT was not affected by co-expression with PROT.
+No	In addition, electron microscopy experiments revealed that PROT and PROT are closely apposed at the plasma membrane level; they are close enough to form hetero-oligomers.
+Yes	PROT, a Rho family PROT that interacts with signaling adapters PROT and PROT.
+Yes	PROT and PROT are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as PROT, PROT, PROT, Shc, and Crk.
+Yes	In addition, PROT contains several classic proline-rich motifs, and it interacts with the first SH3 domain of Crk and full-length PROT in vitro.
+Yes	We propose that PROT and PROT in cooperation with other adapter molecules might regulate the cellular localization of PROT under specific stimuli, acting to regulate precisely Rac and PROT activities.
+No	This work led to identification of a novel PROT (PROT) for Rho family GTPases.
+No	The GAP domain shows high similarity to the recently cloned PROT and displays activity toward RhoA, PROT, and PROT in vitro.
+Yes	The protein was named PROT for its ability to interact with PROT proteins and its activity toward Rac and PROT.
+Yes	Expression of PROT in 293T cells led to a reduction in active PROT and PROT levels but not RhoA.
+Yes	A role for PROT phosphorylation of PROT in cytokinesis.
+Yes	Here, we characterize the interaction between PROT and PROT, show that PROT phosphorylates PROT at conserved S274 and S326 residues in vitro, and present evidence that PROT is also a substrate for PROT in vivo.
+No	Downregulation of PROT by RNA interference results in multiple mitotic defects, including multinucleation and cells arrested at the midbody stage, which are rescued by ectopic expression of wild-type PROT, but not by PROT with mutations in the PROT phosphorylation sites.
+Yes	These results suggest that PROT phosphorylation of PROT may influence cytokinesis.
+Yes	Specific interaction of PROT and c/EBPbeta leads to the transcriptional activation of the human PROT gene.
+Yes	The sterol-independent regulatory element (SIRE) of the PROT (PROT) promoter mediates PROT (OM)-induced transcription of the PROT gene through a cholesterol-independent pathway.
+Yes	PROT orphan receptor functions as negative modulator for PROT in prostate cancer cells PROT.
+No	BACKGROUND: Both PROT (AR) and orphan receptor PROT (PROT) belong to the steroid nuclear receptor superfamily and are expressed in prostate cancer tissue and cell lines.
+No	The interaction between AR and PROT was assessed by PROT (PROT) pull-down assay and mammalian two-hybrid system assay.
+Yes	The protein PROT functions in a multi-subunit E3 ubiquitin ligase that targets the hypoxia-inducible transcription factor PROT for proteasomal degradation during normoxia.
+Yes	We establish that PROT binds to PROT (PROT), a component of the 19S regulatory complex of the proteasome.
+Yes	PROT associates with the beta-domain of PROT and complexes with PROT and PROT in vivo.
+Yes	Overexpression of PROT promotes degradation of PROT in a pVHL-dependent manner that requires the ATPase domain of PROT.
+Yes	Blockade of PROT expression by small interfering RNA (siRNA) causes prolonged degradation kinetics of PROT.
+Yes	Several distinct mutations in exon 2 of PROT disrupt binding of pPROT to PROT.
+Yes	A PROT mutant containing a P154L substitution coimmunoprecipitates with PROT, but not PROT, and does not promote degradation of PROT.
+Yes	Thus, the ability of PROT to degrade PROT depends in part on its interaction with PROT and suggests a new mechanism for PROT stabilization in some PROT-deficient tumors.
+Yes	PROT/PROT/memA interacts with PROT, PROT and SRrp130 in corneal epithelial cells.
+No	Three SR-rich proteins were identified that interact with the C-terminus of Pnn: PROT and PROT, known components of spliceosome machinery, and a novel 130-kDa nuclear protein, SRrp130.
+Yes	We report that PROT (MutS homolog 2) protein interacts with the ATR (ATM- and Rad3-related) kinase to form a signaling module and regulate the phosphorylation of PROT and PROT (structure maintenance of chromosome 1).
+Yes	We found that phosphorylation of PROT by ATR also requires checkpoint proteins PROT and replication protein A.
+No	In contrast, phosphorylation of PROT by ATR is independent of PROT and replication protein A, suggesting that the signaling pathway leading to PROT phosphorylation is distinct from that mediated by the checkpoint proteins.
+No	In addition, both PROT and PROT are required for the activation of the S-phase checkpoint to suppress DNA synthesis in response to MNNG, and phosphorylation of PROT is required for cellular survival.
+Yes	Modification of de novo DNA methyltransferase 3a (PROT) by PROT modulates its interaction with histone deacetylases (HDACs) and its capacity to repress transcription.
+Yes	Here we show that PROT interacts with multiple components of the sumoylation machinery, namely the E2 sumo conjugating enzyme PROT and the E3 sumo ligases PROT and PROT, all of which are involved in conjugating the small ubiquitin-like modifier polypeptide, PROT, to its target proteins.
+Yes	PROT is modified by PROT in vivo and in vitro and the region of PROT responsible for interaction maps to the N-terminal regulatory domain.
+Yes	Functionally, sumoylation of PROT disrupts its ability to interact with histone deacetylases (PROT/2), but not with another interaction partner, PROT.
+Yes	The tyrosine kinase PROT is physically associated with the Type I interferon (PROT) receptor complex and is rapidly activated during PROT alpha stimulation.
+Yes	PROT interaction with PROT phosphatase ties mitogenic signal transduction to cell cycle activation.
+Yes	We show here that PROT phosphatase associates with PROT in somatic mammalian cells and in meiotic frog oocytes.
+No	Differential binding of vascular cell-derived proteoglycans (PROT, PROT, PROT, and PROT) to the beta-amyloid protein of Alzheimer's disease.
+Yes	Previous studies have demonstrated the immunolocalization of PROT, a specific PROT, to the PROT protein (A beta)-containing PROT deposits within the walls of blood vessels (i.e., congophilic angiopathy) in Alzheimer's disease (AD) brain.
+No	Overall, the results indicate that specific vascular cell-derived PROT differentially interact with A beta, and that the interactions of highest affinity occur between A beta and binding sites on both the core protein and glycosaminoglycan chains of PROT.
+No	In the present investigation, the differential binding of previously characterized endothelial cell (EC)- and smooth muscle cell (PROT)-derived PROT to A beta was examined to determine whether the accumulation of A beta in cerebrovascular PROT deposits may be due to its interactions with PROT.
+No	Pretreatment of AA amyloidotic splenic and liver tissue sections with synthetic A beta (1-28) produced strong immunoreactivity with A beta antibodies at tissue sites enriched in PROT which was partially removed by pretreatment with heparitinase, but not by chondroitin PROT lyase.
+No	[35S]-Sulfate labeled proteoglycans (PROT) derived from cultured ECs and SMCs bound to affinity columns containing A beta (1-28) or (1-40), with virtually no binding to A beta (40-1) (reverse peptide), beta-amyloid precursor protein (410-429), or bovine PROT.
+Yes	Characterization of EC and PROT PROT bound to A beta (1-28) revealed strong binding by PROT, weak binding by PROT and PROT, two dermatan sulfate proteoglycans, and lack of binding by PROT/PROT, a large chondroitin sulfate proteoglycan.
+Yes	Cross-linking of PROT with the use of the mAb MEM-53 and a polyclonal sheep anti-mouse Ig promoted activation of resting B cells into the G1 phase of the cell cycle as judged by increased expression of the early activation Ag PROT, increases in cellular volume, RNA synthesis, and PROT protein levels, and enhanced binding of 7-aminoactinomycin D.
+Yes	However, cytokines, in particular PROT and PROT, potentiated the DNA synthesis induced by cross-linking of PROT.
+No	The human PROT mRNA editing protein is a PROT showing structural homology to some known mammalian and bacteriophage deoxycytidylate deaminases.
+No	The fact that the PROT mRNA editing protein also exists as a PROT has important implications for the mechanism of PROT mRNA editing in humans.
+No	Assignment of PROT, PROT, and Etfa to chromosomes 3, 7, and 13: the mouse homologs of genes responsible for glutaric acidemia type II in human.
+No	We used cDNA probes for the PROT, PROT, and Etfa genes to determine localization of these mouse genes to chromosomes 3, 7, and 13.
+Yes	PROT associates with PROT, Syk, and phospholipase C-gamma(1) upon B cell activation.
+Yes	These results suggest that tyrosyl-phosphorylated PROT may be a substrate for PROT regulates tyrosyl phosphorylation of PROT.
+Yes	The association of PROT with PROT was mediated by the NH2-terminal Src homology 2 (SH2) domain of PROT.
+Yes	Complexes of either PROT/PROT/Syk/PLC-gamma(1) could be isolated from B cells stimulated by BCR engagement or a mixture of hydrogen peroxidase and sodium orthovanadate, respectively.
+Yes	Transient expression of PROT and a null mutant of PROT (PROTM) in COS cells resulted in an increase in tyrosyl phosphorylation of PROT and its interaction with PROTM.
+No	By contrast, PROT was not tyrosyl phosphorylated or associated with PROTM in the presence of wild-type PROT.
+Yes	PROT dimers formed through self-association of the TATA-binding polypeptide (PROT) subunit and could be immunoprecipitated with antibodies to PROT, the core subunit of PROT.
+Yes	Subsequent amino acid sequencing revealed many peptides involving PROT cross-linked either to itself or to a variety of other known CE protein components, including PROT, PROT, PROT, keratins, members of the small proline-rich superfamily, PROT, and unknown proteins related to the PROT family.
+No	Specific glutamines or lysines of PROT were used to cross-link the different proteins, such as glutamines 495 and 496 to PROT, glutamine 288 to keratins, and lysines 468, 485, and 508 and glutamines 465 and 489 for interchain PROT cross-links.
+Yes	A prominent isolate, designated PROT/PROT, specifically interacts with the PROT not only in vivo but also in vitro.
+No	PROT is a nuclear protein with a characteristic distribution in large irregularly shaped nuclear speckles and co-localizes perfectly with the SR domain-containing PROT.
+Yes	Transient expression of the full-length PROT without RSRS in U1240MG glioblastoma cells resulted in repression of PROT promoter activity.
+Yes	These results suggest that the relative abundance of the two splice variants of PROT in brain could be an important determinant for the expression of PROT.
+Yes	We report here that PLZF, and a structurally similar transcriptional repressor, PROT, can interact with a variety of corepressor proteins in addition to SMRT, including the mSin3A protein and (for PLZF) PROT.
+No	Herein, we show that a distinct IkappaB protein PROT also interacts with RXR, as shown in the yeast two-hybrid tests and PROT pull-down assays.
+No	In contrast to PROT, PROT did not interact with the AF2 domain of RXR.
+Yes	PROT specifically interacted with the general transcription factors PROT, TBP, and PROT but not with TFIIEalpha in the PROT pull-down assays.
+No	TBP and PROT, however, were not able to interact with PROT.
+No	Accordingly, PROT coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of PROT.
+No	In addition, coexpression of PROT but not PROT further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR.

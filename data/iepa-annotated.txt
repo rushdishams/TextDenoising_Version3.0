@@ -1,0 +1,486 @@
+Yes	PROT stimulates PROT production in dose-dependent fashion as well.
+Yes	Phosphoinositide hydrolysis, resulting in PROT (IP3) and diacylglycerol (DG) formation, has been implicated in PROT-stimulated pulsatile secretion of prostaglandin F2 alpha (PGF2 alpha) from uterine endometrium of sheep and other mammals.
+Yes	SP ewes also had greater incorporation of [3H]inositol into PROT (PROT) (+3449%, p less than 0.01) and total PROT (PROT) (+760%, p less than 0.08), in response to PROT, than did oCSP ewes (+553 and +168% for PROT and total PROT, respectively) in endometrium collected at ovariectomy/hysterectomy on Day 16.
+Yes	These results indicate that oTP-1 may prevent luteolysis by inhibiting development of endometrial responsiveness to PROT and, therefore, reduce PROT-induced synthesis of PROT and PGF2 alpha.
+No	PROT and PROT binding in human myometrium.
+No	The effects of prostaglandin F2 alpha (PGF2 alpha) on intracellular Ca2+ concentration ([Ca2+]i) and PROT (IP) generation in human myometrial cells were evaluated and compared to the effects of PROT.
+Yes	In contrast, the potencies of PROT to raise PROT and [Ca2+]i were similar and independent of extracellular Ca2+, and could be suppressed by pertussis toxin and phorbol ester, but not by verapamil.
+Yes	The action of PGF2 alpha depends on extracellular Ca2+, whereas PROT activates the G-protein-dependent phospholipase-C-PROT-Ca2+ signal-transducing pathway, complemented by the influx of extracellular Ca2+.
+Yes	PROT-stimulated PROT turnover in endometrium of ewes is influenced by stage of the estrous cycle, pregnancy, and intrauterine infusion of ovine conceptus secretory proteins.
+Yes	Three experiments (Exp) assessed the influence of stage of the estrous cycle, pregnancy, and intrauterine infusion of ovine conceptus secretory proteins (oCSP) on turnover of PROT (the putative second-messenger for PROT-stimulated secretion of prostaglandin F2 alpha) in ovine endometrium during luteolysis and maternal recognition of pregnancy.
+No	For each Exp, 100 mg endometrium was incubated, in duplicate, for 2 h with 10 microCi [3H] inositol and treated with 0 or 100 nM PROT (OT) for 20 min, then [3H]inositol mono-, bis-, and trisphosphates (IP1, IP2, and PROT, respectively) were quantified.
+Yes	Carbachol and PROT stimulate the generation of PROT in the guinea pig myometrium.
+Yes	In the guinea pig myometrium prelabelled with myo-[2-3H]inositol, carbachol and PROT enhanced a concentration-dependent and rapid release of PROT which preceded that of IP2 and IP1.
+Yes	Hesperidin, the most important PROT of Citrus sp., significantly increases HDL and lowers PROT, LDL, total lipid and triglyceride plasma levels in normolipidemic rats and in rats with diet- and triton-induced hyperlipidemia.
+No	The objectives of this study were to evaluate and compare the actions of endothelin-1 (ET-1), PROT, prostaglandin F2 alpha (PGF2 alpha) and PROT (IP3) on 45Ca2+ mobilization in permeabilized rat myometrial cells and to examine the activation of the inositol lipid cycle in intact myocytes.
+No	All four agonists caused a biphasic release of 45Ca2+ from non-mitochondrial pool(s), with the rank order of potency: PROT > PGF2 alpha > ET-1 > PROT.
+Yes	Endothelin-1 and PROT stimulated PROT accumulation at concentrations similar to those that promoted 45Ca2+ efflux, whereas about 100 times higher concentrations of PGF2 alpha were needed to activate this signaling pathway in intact cells.
+Yes	It is concluded that the primary action of PGF2 alpha in myometrial cells is to enhance Ca2+ influx, whereas PROT and ET-1 receptors are coupled to phospholipase C, generating PROT and raising the intracellular concentration of free Ca2+ from intracellular as well as extracellular sources.
+No	PROT induced a biphasic increase in the intracellular Ca2+ concentration of porcine myometrial cells: participation of a pertussis toxin-insensitive G-protein, PROT-sensitive Ca2+ pool, and Ca2+ channels.
+Yes	Administration of PROT (1 microM) for 15 sec increased PROT (IP3) formation by 61%.
+Yes	Pretreatment with pertussis toxin (PTX, 1 microgram/ml) for 2 hr failed to alter the PROT-induced increase in [Ca2+]i and PROT formation.
+Yes	U-73122 (3 microM) also abolished the PROT-induced PROT formation.
+Yes	PROT beta protein disruption of cholinergic and growth factor PROT signals could underlie cognitive and neurodegerative aspects of Alzheimer's disease.
+Yes	PROT beta protein (25-35) stimulation of PROT A, C and D activities of LA-N-2 cells.
+No	[3H]Inositol prelabeled LA-N-2 cells were exposed to varying concentrations of PROT, from 20 to 125 micrograms/ml, and PROT activation was measured.
+Yes	The effects of adrenergic, metabotropic amino acid and bombesin antagonists on the PROT mediated stimulation of PROT activity was investigated.
+Yes	Propranolol, a beta adrenergic antagonist, 7-chloro-kynurenic acid, a metabotropic amino acid antagonist, and [Tyr4-D-Phe12]bombesin, a bombesin antagonist, blunted the PROT stimulation of PROT activity in [3H]inositol prelabeled LA-N-2 cells.
+Yes	This suggests that PROT beta protein activation of PROT may be receptor mediated.
+Yes	The PROT inhibitor U 71322 prevented the activation of PROT by PROT.
+Yes	These results suggest that PROT secretion and PROT production in NT2N neurons are regulated by the muscarinic/PROT signal transduction pathway.
+No	Current interest in reducing heart disease risks by diet involves attention to total fat; saturated, monounsaturated, polyunsaturated and trans fatty acids, as well as dietary PROT, soluble fiber, salt, alcohol, antioxidants, dietary alterations causing homocysteinemia and other dietary constituents, such as PROT compounds in some soy products.
+No	This indicates that the calcium response to PROT application was principally associated with activation of the PROT-sensitive calcium stores.
+Yes	The beta PROT protein fragments had diverse effects on phosphoinositide-specific PROT (PI-PLC) as assayed in rat cortical membranes.
+No	They are needed for the catabolism of PROT, bile acids, and steroid hormones; they hydrolyze a number of PROT glycosides to anticarcinogens; and they detoxify certain carcinogens.
+Yes	The aim of this study was to investigate the effects of hCG, hCG plus PROT and PROT on [3H] PROT (IP) formations in porcine myometrial cells obtained from ovariectomized and cyclic gilts.
+Yes	The highest production of total PROT (d.p.m.) was found in cells from ovariectomized gilts given in vivo estradiol benzoate and progesterone for five consecutive days and treated with 1000 mU hCG and 100 mU hCG plus 1 microM PROT (984 +/- 84 and 1063 +/- 131 vs 314 +/- 36, respectively).
+Yes	There was also a very significant increase of PROT after the addition of 1000 mU hCG (p < 0.001) and PROT and PROT when 1000 mU hCG plus PROT were added (p < 0.001 and p < 0.01, respectively).
+Yes	Only PROT alone increased the formation of PROT in cells from ovariectomized pigs treated with estradiol in vivo (p < 0.01).
+Yes	The highest dose of hCG plus The highest dose of hCG plus PROT provoked accumulation of total [3H]PROT (p < 0.05) 53% over the basal level on days 21/1 of the estrous cycle.
+Yes	The present study demonstrates that hCG and PROT can increase the accumulation of PROT in porcine myometrial cells.
+No	The relative risks between highest and lowest quarters of PROT intake adjusted for age, smoking, serum PROT concentration, blood pressure, and body mass index were 0.69 (95% confidence interval 0.53 to 0.90) and 0.54 (0.33 to 0.87) for total and coronary mortality, respectively.
+No	Granulosa cells were isolated from bovine preovulatory follicles and cultured for 3 days with or without PROT in medium supplemented with either PROT (1 microgram/ml) + 1% fetal calf serum (FCS), which maintains basal estradiol secretion, or low doses of FSH (1 and 2 ng/ml) + 1% FCS, a culture condition that maximizes effects of FSH on estradiol secretion.
+Yes	We propose that PROT binds to specific PROT receptors (PROTR) on the endometrium to stimulate phosphoinositide (PI) hydrolysis, thereby activating the inositol trisphosphate (PROT)-diacylglycerol (DAG) second-messenger system to promote pulsatile PGF2 alpha secretion.
+Yes	Endometrial PRPRPROT was increased within 30 seconds after PRPROT treatment and preceded the increase in PGF2 alpha release stimulated by PRPROT.
+Yes	These results support the hypothesis that PROT stimulates phospholipase C to hydrolyze PI, yielding PROT and DAG second-messengers which promote endometrial PGF2 alpha release during CL regression in pigs.
+Yes	These data suggest that cAMP-dependent phosphorylation at a step involving GTP-binding protein/PLC coupling can exert a negative effect on the stimulation of PROT formation by PROT and thereby affect contraction/relaxation in the myometrium.
+Yes	Once the abnormally phosphorylated abnormal PROT isoform agent is initiated, any stress event ensuing in adult life induces a nerve growth factor-mediated synthesis of normal cellular PROT isoform that aggregates to abnormally phosphorylated abnormal PROT isoform, thereby becoming 'infected'/transformed into the same; due to the vicious circle of positive feedback invoked by the blocking of a PROT-specific PROT.
+Yes	The resulting abnormally phosphorylated PROT aggregates to freshly synthesized PROT, transforming it into same; due to a system of positive feedback invoked by the organophosphate-induced blockage of a PROT-specific PROT.
+Yes	The aim of the present study was to investigate how PROT given subcutaneously (SC) and intracerebroventricularly (ICV) influences the secretion of PROT, glucagon and glucose and to investigate whether the effect on these variables of suckling in lactating rats is mediated by PROTergic mechanisms.
+Yes	Subcutaneous injections of PROT increased PROT, glucagon and glucose levels significantly.
+Yes	Two nanograms PROT given ICV had no effect on glucagon and glucose levels but caused a significant rise in PROT levels at this time point.
+Yes	The PROT antagonist 1-deamino-2-D-Tyr-(OEt)-4-Thr-8-Orn-PROT administered ICV increased PROT levels itself and therefore the effect on PROT-induced PROT secretion was difficult to evaluate.
+Yes	Intracerebroventricular injections of 200 ng PROT caused a significant rise not only of PROT but also of glucagon and glucose levels.
+Yes	In contrast, nanogram amounts of PROT administered ICV cause a rise of PROT levels.
+No	The responses of serum PROT (OT) and vasopressin (AVP) to the serotonergic HT1A agonist buspirone (15 mg p.o.) or the HTD1 agonist sumatriptan (6 mg injected subcutaneously) were evaluated in 7 normal men either in basal conditions or during an PROT (0.15 iu/kg as an i.v. bolus) tolerance test (ITT).
+Yes	Stimulation of 5HT-1D receptors with sumatriptan was unable to change neither AVP nor PROT response to PROT-induced hypoglycemia.
+No	The SGR and RGR also had different endocrine profiles with, for example, twice as high PROT (p < 0.01) and PROT levels (p < 0.01) in RGR compared to the SGR.
+Yes	8-OH-DPAT also increased PROT and decreased CCK and somatostatin levels, effects that were blocked by pretreatment with the PROT antagonist.
+Yes	Taken together, these data suggest that the effect of 8-OH-DPAT on plasma levels of PROT, somatostatin and CCK may be mediated by PROT.
+Yes	In previous experiments, we have shown that following i.c.v. application of PROT, plasma levels of PROT are increased through a cholinergic mechanism.
+Yes	In HVSMC both PROT and AVP increased PROT (IP3) production and [Ca2+]i response, but the efficacy of the responses was greater for PROT than AVP.
+No	This action of PROT 25-35 is not altered by pretreatment with the calcium channel blockers nifedipine or cobalt, with the depleter of intracellular calcium stores cyclopiazonic acid, or with the PROT inhibitor neomycin.
+No	The influence of myrigalone B, a PROT from the fruit exudate of Myrica gale L. on Cu(2+)-induced oxidation of low density lipoprotein from PROT fed rabbits was investigated.
+Yes	PROT may rapidly stimulate PROT (IP3) and diacylglycerol (DAG) formation, consistent with the concept of rapid activation of a second-messenger system.
+Yes	In support of this hypothesis, endometrial PRPROT levels were increased (P < 0.05) within 0.5 min after treatment with 0.1 microM PROT.
+Yes	These results indicate that PROT induces endometrial PROT production in a rapid manner indicative of a second-messenger system.
+Yes	Gamma-aminobutyric acid mediation of the inhibitory effect of nitric oxide on the arginine vasopressin and PROT responses to PROT-induced hypoglycemia.
+Yes	Previous studies have demonstrated that the nitric oxide (NO) synthase inhibitor L-NAME exerts positive effects on the arginine vasopressin (AVP) and PROT (OT) responses to PROT-induced hypoglycemia, suggesting inhibitory actions of NO.
+No	AVP and PROT secretory patterns during PROT (0.15 IU/kg, i.v.)-tolerance tests (ITT) were examined in seven normal male subjects with (experimental tests) and without (control test) concomitant treatment with L-NAME (40 micrograms/kg injected plus 50 micrograms/kg infused, i.v.), the GABAergic agent sodium valproate (600 mg in three divided doses orally) or the combination of L-NAME and sodium valproate.
+Yes	PRPROT-induced hypoglycemia increased by 2-fold (peak vs. baseline) plasma AVP and PROT levels.
+Yes	These data indicate a GABAergic mediation of the inhibitory modulation by NO of the AVP and PROT responses to PROT-induced hypoglycemia.
+Yes	Correlation between the stimulatory effect of PROT on the formation of PROT and the PROT receptor level in the pregnant rabbit myometrium.
+Yes	OBJECTIVE: In order to elucidate the roles of PRPROT (PRPROT) and oxytocin (PROT) receptors in rabbit parturition, the concentration of PRPROT induced by PROT and the PROT receptor levels were determined in rabbit myometria before and after parturition.
+No	METHODS: The effects of PROT on PROT formation and PROT receptor levels were determined in the myometria of non-pregnant rabbits, Days 26, 28 and 30 of pregnancy rabbits, postpartum rabbits within 12 hours and steroid-treated ovariectomized rabbits.
+Yes	RESULTS: PROT receptors were not detectable in the myometria of non-pregnant rabbits, and PROT had no effect on the formation of PROT (IPs).
+Yes	On Day 28 of pregnancy, PROT receptors became detectable, and then PROT could induce the formation of PROT.
+Yes	Thereafter, the stimulatory effects of PROT on PROT formation and the PROT receptor levels dramatically increased toward the end of pregnancy and reduced rapidly after parturition.
+Yes	When the ovariectomized pregnant rabbits were treated with estrogen, PROT receptors in the myometrium were induced, and PROT acquired the ability to stimulate PROT formation.
+Yes	In addition, an PROT receptor antagonist inhibited the stimulatory effects of PROT on PROT formation.
+Yes	CONCLUSIONS: These results suggest that the formation of PRPROT by PROT, the PROT receptor levels in the myometrium, and the production of PGF2 in the decidua might play crucial roles in parturition.
+No	Immunohistochemical localization of PROT and PROT in white and brown adipose tissue.
+No	To establish the cell type expressing PROT, we also assessed the size and organization of lipid droplets, the ultrastructural features of mitochondria, and the presence or absence of PROT, a brown fat-specific marker.
+No	In brown adipose tissue of lean animals, multilocular PROT (UCP)-positive brown adipocytes had typical brown mitochondria and were PROT-negative, both in fed and fasted conditions.
+No	At the periphery of the interscapular brown adipose tissue depot, unilocular, PROT-negative adipocytes (mean diameter: 41.55 microns) with white-type mitochondria were observed, and these cells were PROT-positive.
+No	In obese (db/db) animals, brown fat was composed mainly of small unilocular, PROT-positive adipocytes (mean diameter: 40.08 microns), which were also PROT-positive.
+No	In summary, classical brown adipocytes differ from white adipocytes, not only by their morphology and PROT expression, but also by their apparent lack of detectable PROT expression.
+Yes	PROT (OT) and vasopressin (AVP) stimulate PROT and glucagon release from the pancreas, and evoke PROT secretion from the rat PROToma cell line, RINm5F.
+No	Wortmannin converts PROT but not PROT from an antilipolytic to a lipolytic agent in the presence of forskolin.
+No	The present studies compared the effects of PROT in rat adipocytes with the effects of PROT and peroxovanadate, which mimic some effects of PROT.
+No	The antilipolytic effects of peroxovanadate and PROT were unaffected by 500 nmol/L wortmannin, which blocked the antilipolytic action of PROT.
+No	The data provide additional support for the hypothesis that PROT and peroxovanadate affect adipose tissue metabolism by mechanisms distinctly different from those involved in PROT action.
+No	These findings support the concept that the mitochondrial metabolism of nutrient molecules is an event sufficient to acutely augment PROT release from the beta cell, to increase PROT-mediated phosphoinositide hydrolysis, and to induce time-dependent potentiation of PROT secretion.
+Yes	2) IGF-1, IGF-2, and PROT also induced a Ca2+ mobilization from the endoplasmic reticulum: PROT (PLC) inhibitors, neomycin, or U-73122 partially blocked the intracellular [Ca2+]i increase induced by IGF-1 and PROT and totally inhibited the effect of IGF-2.
+No	Homogeneous liposome immunoassay for PROT using PROT from Clostridium perfringens.
+No	PROT was conjugated to PROT by a three-step procedure with hetero-bifunctional crosslinking reagents, succinimidyl 4-(N-maleimidomethyl)cyclohexane-1-carboxylate and 3-(2-pyridyldithio)propionic acid N-hydroxysuccinimide ester.
+No	Both p-nitrophenylphosphatidylcholine hydrolytic activity and liposome lytic activity of PROT-PROT conjugate were inhibited in the presence of PROT antiserum.
+No	Roles of GTP and PROT in the potentiation of Ca(2+)-induced PROT secretion by glucose in rat pancreatic islets.
+No	There was a 98% greater augmentation of PROT secretion by 16.7 mM glucose (in the presence of diazoxide and 40 mM K+) in primed islets; however, the ability of high glucose to augment PROT activity bore no relationship to the secretory response.
+No	MPA markedly inhibited PROT in both conditions; however, PROT secretion was only inhibited (by 46%) in primed islets.
+No	These data indicate that an adequate level of GTP is critical for glucose's potentiation of Ca(2+)-induced PROT secretion in primed islets but that PROT activation can clearly be dissociated from PROT secretion and therefore cannot be the major cause of glucose's augmentation of Ca(2+)-induced PROT secretion.
+Yes	Regulation of PROT secretion via ATP-sensitive K+ channel independent mechanisms: role of PROT.
+Yes	The further addition of carbachol, an agonist that activates an isozyme of PROT distinct from that activated by glucose, together with K+, 20 mM glucose, plus diazoxide resulted in a sustained amplification of PROT secretion from mouse but not rat islets.
+Yes	The inability to activate a nutrient- and calcium-regulated PROT isozyme in mouse islets to the same extent as in rat islets appears to account, at least in part, for these different PROT secretory responses under these unique conditions.
+Yes	Signal transduction in pancreatic beta-cells: Regulation of PROT secretion by information flow in the PROT/Protein kinase C pathway.
+Yes	The physiologic regulation of glucose-induced PROT secretion is dependent upon the activation of information flow in the PROT (PLC)/protein kinase C (PKC) signal transduction system.
+No	When rat islet are cultured for short periods, the content and activation of PROT in response to glucose decreases and this biochemical defect in signal transduction is paralleled by significant reductions in glucose-induced PROT secretion.
+Yes	Biphasic PROT secretion can be evoked and time-dependent potentiation can be induced in mouse islets by carbachol, an agonist that activates an isozyme of PROT distinct from that activated by glucose.
+Yes	When taken in their entirety, the experimental evidence suggests that the activation of PROT is an essential component in the physiologic regulation of PROT secretion and that disordered activation of the enzyme culminates in disordered PROT release.
+Yes	Induction by PROT of PROT and enzymes of fatty acid oxidation.
+Yes	Here we show that PROT alters in pancreatic islets the mRNA of the genes encoding enzymes of free fatty acid metabolism and PROT (UCP-2).
+Yes	PROT overexpression increased PROT mRNA by more than 10-fold in epididymal, retroperitoneal, and subcutaneous fat tissue of normal, but not of leptin-receptor-defective obese rats.
+Yes	By directly regulating the expression of enzymes of free fatty acid metabolism and of PROT, PROT controls intracellular triglyceride content of certain nonadipocytes, as well as adipocytes.
+No	Further, the PROT-induced activation of IK(sl) was effectively antagonized by 5 x 10(-8) mol/l U-73122 or 5 x 10(-6) mol/l 2-nitro-4-carboxyphenyl N,N-diphenylcarbamate (inhibitors of the cell membrane phospholipase C), as well as by intracellularly applied heparin (selective inhibitor of PROT (IP3)-induced Ca2+ release channels).
+No	The data obtained suggest (i) that selective PROT receptors are present on the membranes of guinea-pig antral smooth muscle cells, (ii) that the PROT-related relaxation may result from the activation of Ca(2+)-sensitive K+ conductivity via activation of PROT-induced release of Ca2+ from the submembrane located cisternae of the sarcoplasmic reticulum Ca2+ stores and (iii) in turn, this evokes a non-inactivating component of IK, hyperpolarizing the cell membrane.
+No	Cellular preincubation with 200 microg/ml antibodies against the inositolphosphoglycan (IPG) moiety of the GPI-anchor (Ab(IPG)), or depletion in GPI-anchored proteins by cellular pretreatment with 0.5 U/ml PI-PROT, 1 mM PROT and 2 HU/ml streptolysin-O, or depletion in membrane cholesterol content by filipin (5 microg/ml), digitonin (5 microg/ml) and cholesterol oxidase (0.5 U/ml) decreases the HDL3-signal, suggesting the involvement of a lipolytic cleavage of GPI-anchored proteins.
+Yes	PROT beta protein (25-35) stimulation of PROT in LA-N-2 cells.
+Yes	This PROT stimulation by PROT beta protein appeared to be pertussis toxin sensitive.
+Yes	It is possible that this PROT stimulation by PROT beta protein is a receptor-mediated process.
+Yes	PROT beta protein stimulation of PROT was absent from LA-N-2 cells previously treated with norepinephrine, trans-1-amino-1,3-cyclopentanedicarboxylic acid (t-ACPD), bombesin, or PROT beta peptide.
+Yes	It is suggested that this observed PROT beta protein stimulation of PROT may be responsible for the elevated quantity of inositol seen in the brains of Alzheimer's disease patients.
+Yes	Effects of PROT, arginine-vasopressin and lysine-vasopressin on PROT and glucagon secretion in sheep.
+Yes	The effects of the posterior-pituitary peptides PROT (OT), arginine-vasopressin (AVP) and lysine-vasopressin (LVP) on PROT and glucagon secretion were examined in adult sheep.
+Yes	The maximal PRPRPROT responses induced by PRPROT and AVP were very similar, but the threshold and maximal doses of AVP for increasing plasma PRPRPROT were higher than those of PRPROT.
+Yes	PROT increases PROT expression and energy expenditure.
+Yes	PROT increased BAT PROT mRNA levels greater than twofold in both ad libitum-fed and food-restricted rats.
+Yes	These data demonstrate a PROT-induced increase in energy expenditure in nonmutant rodents and suggest that one mechanism by which PROT increases energy expenditure is through increased thermogenesis in BAT, including increased expression of PROT.
+Yes	PROT upregulates the expression of PROT (UCP-2) mRNA in islets of normal rats, but has no effect in islets of obese Zucker Diabetic Fatty (ZDF) rats with mutated leptin receptors.
+Yes	PROT secretion is regulated by changes in blood glucose, as well as by peptides from the gastrointestinal tract and neurotransmitters that activate the pancreatic islet adenylyl cyclase (e.g., glucagon-like peptide-1) and PROT (PLC) (e.g., acetylcholine) signaling pathways to further potentiate glucose-induced PROT secretion.
+Yes	However, leptin did constrain the enhanced PROT-mediated PROT secretion characteristic of islets from ob/ob mice, without influencing release from islets of lean mice.
+Yes	A specific enhancement in PROT-mediated PROT secretion is the earliest reported developmental alteration in PROT secretion from islets of ob/ob mice, and thus a logical target for leptin action.
+Yes	This action of leptin on PROT-mediated PROT secretion was dose-dependent, rapid-onset (i.e., within 3 min), and reversible.
+No	Leptin was equally effective in constraining the enhanced PROT release from islets of ob/ob mice caused by protein kinase C (PKC) activation, a downstream mediator of the PROT signal pathway.
+No	One function of leptin in control of body composition is thus to target a PKC-regulated component of the PROT-PKC signaling system within islets to prevent hypersecretion of PROT.
+Yes	PROT stimulates the release of the glycosyl phosphatidylinositol-anchored membrane dipeptidase from 3T3-L1 adipocytes through the action of a PROT.
+Yes	The hydrophilic form of MDP released from the cells on stimulation with PROT was recognized by antibodies against the inositol 1,2-cyclic monophosphate cross-reacting determinant, indicating that it had been generated by cleavage of its GPI anchor through the action of a PROT.
+Yes	PROT is a mediator of thermogenesis regulated by thyroid hormone, beta3-adrenergic agonists, and PROT.
+Yes	PROT mRNA levels were also regulated by dexamethasone, PROT, and starvation, albeit differently in muscle and brown adipose tissue.
+Yes	During luteinization of bovine granulosa cells in vitro in the presence of PROT, or PROT plus forskolin, there is a massive upregulation not only of progesterone production, but also of the gene for the peptide hormone PROT, with secretion of the peptide into the medium.
+No	This effect is maximal at 10(-8) M PROT (a concentration clearly above the normal physiological range of PROT concentrations) and involves the V2 receptor pathway, while activation of PROT or changes in intracellular calcium are ineffective.
+No	After PROT activity was functionally depleted by treating cells with phorbol 12-myristate 13-acetate for 24 hours, PROT did not augment IL-1beta-induced NO production.
+Yes	The effect of PROT was also inhibited in the presence of the PROT inhibitor calphostin C.
+Yes	The addition of PROT increased PROT activity in cardiac myocytes, and its effect was significantly inhibited in the presence of calphostin C.
+Yes	These results support the hypothesis that the heart may be a target organ for PROT and that PROT modulates IL-1beta-induced iNOS expression in myocytes through the V1a receptor, which is mediated at least partially via activation of PROT.
+No	Interleukin-1 beta inhibits PROT and PROT secretion at sites apart from KATP channel.
+No	Surprisingly, however, when islets were depolarized directly using either of two agonists, glyburide (which does not act via generation of purine nucleotides) or 40 mM K+ (which acts distal to KATP channel), PROT and PROT secretion were again obliterated by IL-1 beta.
+No	These data (together with the finding that IL-1 beta inhibited Ca(2+)-induced PROT release) suggest that, in addition to its effects on ATP synthesis and thereby on the KATP channel, IL-1 beta has at least two undescribed, distal effects to block both PROT as well as Ca(2+)-induced exocytosis.
+Yes	Activation of EGFR overexpressing 3T3-L1 adipocytes leads to a 3.4 +/- 1.2-fold stimulation of PROT activity over basal levels vs. only 1.06 +/- 0.01-fold stimulation by PROT.
+Yes	Despite the low levels of PROT-induced PROT activity, PROT-stimulated glucose transport activity was similarly inhibited by U73122 (55.9 +/- 13.1% inhibition).
+No	Inhibition of PROT activation did not impair either EGF- or PROT-induced activation of glycogen synthase or incorporation of glucose into lipid, supporting the hypothesis that both EGF- and PROT-induced glucose disposal can be independent of GLUT4-mediated glucose transport.
+No	The diminution of glucose transport secondary to inhibition of PROT activity was reflected by a decrease in GLUT4 translocation to the plasma membrane upon either EGF or PROT stimulation.
+Yes	We have recently shown that PROT causes a PROT (PKC)-dependent increase in ACTH release and biosynthesis in ovine anterior pituitary cells.
+Yes	In these cells, PROT also causes the translocation of PROT from the cytosol to the cell membrane which is maximal at 5 min, but the intracellular events distal to PROT activation that underlie ACTH secretion have not been well characterized to date.
+No	Since the MARCKS protein has been implicated in neurosecretion and is phosphorylated by PROT in synaptosomes, studies were carried out to determine whether PROT might cause MARCKS phosphorylation in the ovine anterior pituitary, and to determine whether this phenomenon might be temporally correlated with PROT translocation and the release of ACTH.
+No	We conclude that: (1) PROT causes a rapid, and reversible, phosphorylation of the MARCKS protein in the ovine anterior pituitary; (2) since the PROT-induced increase in MARCKS phosphorylation occurs much earlier in these cells than does PROT trans-location, MARCKS phosphorylation may provide a more sensitive index of the onset of PROT activation than the translocation assay; (3) the close temporal association between MARCKS phosphorylation and the rapid early release of ACTH suggests that MARCKS phosphorylation may be involved in the initial intracellular events that underly exocytosis of the hormone.
+No	PKB, which is an important early PI 3-kinase-dependent component of PROT signalling pathways, is also down-regulated by PROT-coupled agonists.
+Yes	The activity of the MAPKs, induced by PROT or PMA was inhibited by downregulation of PROT (PKC), by the tyrosine kinase inhibitor genistein and by MAPK kinase (MEK) inhibitor, PD98059.
+Yes	We suggest that PROT activates the 42/44kDa MAPKs through a signal transduction pathway that involves stimulation of PROT-V1 receptor, tyrosine kinase, PROT and MEK.
+Yes	Secreted form of PROT precursor protein activates protein kinase C and PROT in cultured embryonic rat neocortical cells.
+Yes	Furthermore, we demonstrate that tyrosine phosphorylation of PROT and formation of inositol 1,4,5-trisphosphate were increased by PROT-stimulation.
+Yes	PROT-treated male rats had increased circulating levels of cholecystokinin, a tendency to increased plasma levels of PROT (p = 0.066), and relatively more adipose tissue in the thigh and interscapular region, compared with controls.
+Yes	However, in brown fat, we observed a 2-3-fold increase in the expression of PROT in response to dietary fat challenge, which may be related to diet-induced elevations in plasma PROT levels.
+No	Similarly, carbachol, but not PROT or DDPROT, induced a significant increase in membrane-associated PROT (PKC) enzyme activity.
+No	In contrast, PROT had no effect on the distribution of any PROT isoform tested.
+Yes	PROT-induced activation of PROT in renal epithelial cells.
+Yes	PROT induced a biphasic increase in diacylglycerol generation, characterized by an initial rapid rise and then a sustained elevation, and PROT activation, reflected by phosphorylation of a specific 80 kDa myristoylated alanine-rich PROT substrate (MARCKS).
+Yes	These results argue that Ca(2+)-dependent PROT is involved in the action of PROT, and that of other agonists, which stimulate sodium transport.
+Yes	However, the PROT-dependent stimulation required activation of PROT (PROT), whereas the inhibition was PROT independent, indicating that the NGF-induced signaling pathways leading to inhibition and stimulation of HCO3- absorption are distinct.
+Yes	Association of the PROT receptor with PROT (PROT) in 3T3-L1 adipocytes suggests a role for PROT in metabolic signaling by PROT.
+No	To determine the functional significance of the interaction of PROT and the IR, we used a specific inhibitor of PROT, U73122, or microinjection of SH2 domain glutathione S-transferase fusion proteins derived from PROT to block PROT-stimulated GLUT4 translocation.
+Yes	The results demonstrate that potent antioxidants, such as PROT, protect MM-LDL from lipoperoxidation and preserve their ability to efficiently deliver PROT to cells.
+No	During wk 6, milk yield and dry matter intake (DMI) were recorded daily, and plasma concentrations of glucose, nonesterified fatty acids, urea, protein, growth hormone, PROT, PROT-like growth factor I, PROT, and prolactin were determined.
+Yes	Inhibition of 5-HT3 serotonergic receptors with ondansetron (4 or 8 mg) did not modify the basal secretion of AVP and PRPROT and the PRPROT response to PROT-induced hypoglycemia.
+Yes	HvSPY coexpression largely abolished PROT-induced activity of an PROT promoter.
+Yes	Treatment with (+)-trifluoro-ABA strongly inhibited the PROT-inducible expression of PROT I-1 encoded by RAmy1A in the aleurone layers of embryoless half-seeds at the levels of transcription, protein synthesis, and enzyme activity.
+No	Furthermore, treatment of isolated rat diaphragms and adipocytes with PIG-P as well as with other agents exerting partially PROT-mimetic activity, such as PI-specific PROT (PLC) and the sulfonylurea glimepiride, triggered tyrosine phosphorylation of the caveolar marker protein caveolin, which was apparently correlated with stimulation of lipogenesis.
+No	Strikingly, in adipocytes subjected to combined trypsin/salt treatment, PIG-P, PI-specific PROT, and glimepiride failed completely to provoke PROT-mimetic effects.
+Yes	Chronic central PROT infusion enhances insulin-stimulated glucose metabolism and favors the expression of PROT.
+Yes	In marked contrast, intracerebroventricular PROT administration was accompanied by the maintenance of high PROT, PROT, and PROT expression in all these tissues.
+Yes	While PROT maintains or favors energy-dissipating mechanisms (PROT, PROT, and PROT), the latter are markedly depressed in pair-fed rats.
+No	Concurrent decrease of PROT and PROT immunoreactivity during the light phase in the vole suprachiasmatic nucleus.
+No	Mean numbers of PROT- and PROT-immunoreactive neurons were determined in the suprachiasmatic nucleus of common voles, entrained to a 12:12 h light-dark (LD) cycle, at the beginning of the light period (zeitgeber time zero) and 6 h later (zeitgeber time six).
+No	At zeitgeber time zero, mean numbers of PROT- and PROT- immunoreactive neurons were 2194 and 9897, respectively.
+Yes	Melatonin inhibits PROT response to PROT-induced hypoglycemia, but not to angiotensin II in normal men.
+No	In order to establish whether melatonin alters basal and/or stimulated PROT secretion, 18 normal men were treated (p.o.) with 6 or 12 mg melatonin or placebo in basal conditions (N-6 subjects) or concomitantly to the administration of PROT (O.15 IU/kg body weight in an i.v. bolus) (N-6 subjects) or angiotensin II (increasing doses of 4, 8 and 16 ng/kg/min, at intervals of 20 min).
+Yes	In contrast, the PROT response to PROT-induced hypoglycemia was significantly reduced by melatonin treatment.
+No	Although osmotic stimuli cause an increase in nitric oxide synthase (NOS) activity as well as synthesis of AVP and PROT in the paraventricular (PVN) and supraoptic nuclei (SON), it is not known whether NOS activity in the hypothalamus changes in the diabetic patients who have plasma hyperosmolality with hyperglycaemia caused by PROT deficiency.
+Yes	Three weeks after administration of STZ, the diabetic rats were subcutaneously treated with PROT for 1 week, which resulted in significant suppression of the induction of nNOS, AVP and PROT gene expression in the PVN and SON.
+Yes	To assess the possible involvement of PROT in PROT and IL-1 action in Leydig cells, the PROT inhibitor Calphostin C was tested.
+Yes	These results confirm that PROT and PMA activate PROT and indicate that IL-1 likely does not activate PROT in Leydig cells.
+No	PROT evokes the release of Ca2+ from PROT-sensitive intracellular stores.
+No	To explore the possible roles of the hypothalamic melanocortin system in PROT action, we examined the effects of intracerebroventricular (i.c.v.) injection of PROT with or without SHU9119, a potent antagonist of alpha-melanocyte stimulating hormone, on food intake, body weight, and mitochondrial PROT (UCP-1) mRNA expression in the brown adipose tissue (BAT) in rats.
+Yes	A single i.c.v. injection of PROT decreased cumulative food intake and body weight gain, and increased PROT mRNA expression during 3 h at the onset of the dark phase.
+Yes	Co-injection of SHU9119 also inhibited completely the PROT-induced increase in PROT mRNA expression in the BAT.
+Yes	It has been established that PROT beta peptide (AbetaP) activates phospholipase A2, PROT and phospholipase D of LA-N-2 cells and other cell types.
+Yes	(-)Nicotine did not blunt the PROT activation of PROT.
+Yes	Neural site of PROT influence on neuropeptide Y signaling pathways altering feeding and PROT.
+No	NPY in the PVN increases feeding and decreases PROT (UCP) activity in brown fat, whereas PROT decreases NPY biosynthesis in the Arc, which presumably decreases PVN NPY.
+Yes	Next, we determined that PROT decreases NPY and increases PROT gene expression.
+No	Furthermore, immunocytochemical studies showed the PROT-induced neuronal MAC expression on the SH-SY5Y cells after CD59 was removed by PROT or blocked by anti-CD59 antibody.
+Yes	Effect of residual endogenous PROT secretion on the abnormal PROT response to hypoglycaemia in PROT-dependent diabetics.
+Yes	Since previous studies showed that AVP secretion is influenced by the persistence of residual endogenous PRPROT secretion, we wondered whether this factor also regulates PROT secretion.
+Yes	DESIGN: Case-control study: the PROT response to PROT-induced hypoglycaemia was measured in normal and diabetic patients with or without residual endogenous PROT secretion.
+No	Blood samples for PROT assay were taken just before the rapid injection of PROT (time 0) and at time 15, 30, 45 and 60 min.
+Yes	CONCLUSIONS: These data indicate that a residual endogenous PRPROT secretion exerts a partial protective action against the hypothalamic-pituitary disorder affecting the PROT secretory system in IDDM.
+Yes	A barley gene encoding a novel DNA-binding protein (HRT) was identified by southwestern screening with baits containing a PROT phytohormone response element from an PROT promoter.
+Yes	These observations suggest that bradykinin, like PROT, activates phospholipase C which generates PROT with a subsequent release of Ca2+ from intracellular stores followed by store-operated Ca2+ influx.
+Yes	These findings led us to conclude that inositol trisphosphate [corrected] causes Ca2+ mobilization by muscarinic activation of PROT, leading to intracellular translocation of PROT granules to the ready-releasable pool in pancreatic beta-cells via Ca2+/calmodulin-dependent phosphorylation of myosin light chains.
+No	To elucidate the pathophysiologic significance of PROT and PROT in the effect of TZDs on glucose metabolism and energy expenditure, we examined their basal mRNA levels in the WAT, brown adipose tissue (BAT), and skeletal muscle from Wistar fatty rats, a rat model of NIDDM and obesity with PROT receptor defect, and investigated expression of the genes encoding PROT and PROT in Wistar fatty rats and in Wistar lean rats with 2-week oral administration of 3 mg x kg(-1) x day(-1) pioglitazone, a TZD derivative.
+No	These results clearly demonstrate that PROT gene expression is upregulated by TZDs in the WAT and BAT in Wistar fatty rats, an obese model with PROT receptor defect, and that adipose PROT gene expression is increased in response to TZDs in vitro.
+Yes	PROT, PROT and PROT gene expression: modulation by food restriction and PROT.
+No	To determine the effects of food restriction and PROT administration on several transcripts involved in energy homeostasis, we examined PROT, PROT (UCP) 1, 2 and 3, lipoprotein lipase (LPL), beta3-adrenergic receptors (beta3AR) and hormone-sensitive lipase (HSL) mRNA levels in brown adipose tissue (BAT) and epididymal (EWAT) and perirenal (PWAT) white adipose tissue in three groups of rats.
+Yes	PROT increased LPL mRNA by 80%, PROT mRNA twofold, and PROT mRNA levels by 62% in BAT, and increased PROT mRNA levels twofold in EWAT.
+Yes	The present study indicates that PROT increases the gene expression of PROT in EWAT and that of PROT, PROT and LPL in BAT, whereas reduced food consumption but not PROT, decreases LPL expression in WAT.
+Yes	DNase1 footprints suggest the involvement of at least three types of transcription factors in the regulation of PROT by PROT.
+Yes	The regulation of PROT genes by PROT therefore involves an interplay of at least three different types of transcription factor.
+Yes	Oxytocin-stimulated PROT release in a clonal beta-cell line RINm5F: involvement of PROT-dependent and -independent pathways.
+Yes	CONCLUSION: Oxy increases PROT release through both PROT and non-PROT mediated signal transduction mechanisms.
+Yes	In addition, U-73122 diminished the PROT-induced increase in intracellular concentration of PROT (IP3).
+Yes	U-73122 at 8 mumol.L-1 totally abolished the PROT-induced increases in [Ca2+]i and PROT; however it reduced the PROT-induced increase in insulin release only by 36% and 63% in the monolayer and suspended cell preparations, respectively.
+Yes	PROT-stimulated PROT release in a clonal beta-cell line RINm5F: involvement of phospholipase C-dependent and -independent pathways.
+Yes	AIM: To study the mechanisms underlying PROT (Oxy)-induced PROT release.
+Yes	RESULTS: PROT increased PROT release and [Ca2+]i in a concentration-dependent manner.
+Yes	PROT-induced PROT release was not altered by pretreatment with pertussis toxin (PT).
+Yes	U-73122 at 8 mumol.L-1 totally abolished the PROT-induced increases in [Ca2+]i and IP3; however it reduced the PROT-induced increase in PROT release only by 36% and 63% in the monolayer and suspended cell preparations, respectively.
+Yes	CONCLUSION: PROT increases PROT release through both PLC and non-PLC mediated signal transduction mechanisms.
+No	In isolated adipocytes, the loss of almost half the 18S RNA content over a 24-hour incubation was prevented in the presence of PROT but not PROT or epidermal growth factor (EGF).
+Yes	Further investigation suggested that activation of PROT (PKC), which is part of the PROT-induced intracellular signalling pathway, is necessary and sufficient for the generation of the synergistic response, although it is not obligatory for PROT-induced ACTH release.
+No	PROT (OT) is more expressed in the TEC/TNC than vasopressin (VP); insulin-like growth factor 2 (IGF-2) thymic expression predominates over IGF-1, and much more over PROT.
+No	Thus, PROT was proposed to be the self antigen of the neurohypophysial family, and IGF-2 the self antigen precursor of the PROT family.
+Yes	The distribution of PROT (AVP) cells in the SCN overlapped with that of PROT in both species.
+No	Species differences in the location of the Ca2+-dependent PROT isoforms suggest differences in function such as the relaying of photic or non-photic information to the clock mechanism, or the synchronization of PROT neurons and their subsequent output signals.
+Yes	Downregulation of PROT mRNA in white adipose tissue and PROT mRNA in skeletal muscle during the early stages of PROT treatment.
+Yes	PROT by intravenous or intracerebroventricular infusion for 5 h was associated with a decrease in PROT mRNA in WAT (47-52%) and PROT mRNA in SM (33-37%).
+No	Denervation suppressed mRNA levels for PROT (49%), PROT (36%), and COX-IV (59%) and eliminated the acute response to PROT in SM.
+Yes	The specific PROT (PKC) inhibitor chelerythrine (5 micrometers) inhibited PTH-, PROT-, PGE2-, and adenosine-stimulated Ca2+ reabsorption by 77%, 67%, 79%, and 100%, respectively.
+Yes	CONCLUSION: PTH, PROT, PGE2, and adenosine stimulate Ca2+ reabsorption via a pathway that is independent of cAMP and that involves a phorbol ester-insensitive PROT isotype.
+Yes	We observed that primary microglial cultures and the THP-1 monocytic cell line are stimulated by fibrillar beta-amyloid and PROT peptides to activate identical PROT-dependent inflammatory signal transduction cascades.
+Yes	Enhanced phosphoinositide hydrolysis via overexpression of PROT beta1 or delta1 inhibits stimulus-induced PROT release in PROToma MIN6 cells.
+No	To study the effects of enhanced phosphoinositide hydrolysis on PROT secretion, phosphoinositide-specific PROT (PLCbeta1) or PROT was overexpressed in PROToma MIN6 cells via adenoviral vectors.
+Yes	If daily PROT injections are repeated over a 5-day period, blood pressure is decreased by 10-20 mmHg, the withdrawal latency to heat stimuli is prolonged, cortisol levels are decreased and PROT and cholecystokinin levels are increased.
+No	The two groups were similar in their morning thyroxin, triiodothyronine, TSH, estradiol, cortisol, gastrin, cholecystokinin, somatostatin, PROT, PROT and IGF-1 levels.
+Yes	Constitutive expression of PKABA1 drastically suppressed expression of low- and high-pI PROT and protease genes induced by PROT.
+Yes	The bovine ovarian granulosa cell model is a primary culture system where under stimulation by PROT or IGF-I and LH the endogenous PROT gene is massively upregulated.
+No	In addition, abscisic acid-mediated inhibition of PROT-stimulated responses seems to depend on the activation of a phospholipase D during induction of PROT in barley aleurone cells as well as on a putative acetyltransferase involved in elongation growth.
+Yes	The deduced consensus closely resembled PROT response elements in PROT promoters.
+Yes	PROT (PROT) inhibitors reversed PROT inhibition, whereas PROT activator inhibited nitrite production.
+Yes	The inhibitory action of PROT involves both the activation of PROT and the transcription of iNOS mRNA in cultured rat GMC.
+Yes	Molecular characterization of catalytic-subunit cDNA sequences encoding protein phosphatases 1 and 2A and study of their roles in the PROT-dependent PROT expression in rice.
+Yes	To understand the molecular mechanism of PROT-dependent gene regulation, the effect of three phosphatase inhibitors on the germination of rice seeds and the expression of a target gene, the PROT gene, Osamy-c, were measured.
+Yes	To further understand the possible role of protein phosphatases 1 and 2A in the PROT-dependent expression of PROT, we isolated cDNA clones encoding protein phosphatase 1 and protein phosphatase 2A from a rice aleurone cDNA library.
+Yes	Taken together, our results suggest that protein phosphatases PP1 or PP2A are involved in the PROT-dependent expression of the rice PROT gene, though the PP1 or/and PP2A enzymatic activities as well as mRNA levels do not increase upon PROT3 treatment.
+Yes	Long-term changes in gastrin, cholecystokinin and PROT in response to PROT treatment.
+Yes	The present study was designed to investigate how repeated injections of PROT influence plasma levels of vagally controlled hormones such as gastrin, cholecystokinin (CCK), PROT and somatostatin, as well as of endogenous PROT and glucose.
+Yes	In addition, both PROT and CCK levels were decreased in response to the PROT treatment when measured 3 and 10 days after the last injection (ANOVA; PROT p < 0.01, CCK p < 0.05).
+No	When the alpha2-adrenoreceptor agonist clonidine (2.5 microgram/kg intracerebroventricularly) was administered 3 days after the 5-day treatment period with PROT or saline, plasma levels of PROT and CCK increased significantly (p < 0.05) in the PROT-treated rats, when compared to saline-treated controls receiving clonidine only.
+Yes	In conclusion, these results show that PROT induces long-lasting changes in plasma levels of gastrin, CCK and PROT, without affecting somatostatin or glucose levels.
+Yes	Fasting and PROT modulate adipose and muscle PROT: divergent effects between messenger ribonucleic acid and protein expression.
+No	In this study, we examined the effects of fasting for 2 days and exogenous s.c. PROT, 200 microg every 8 h for 2 days, on the regulation of PROT (UCP) subtypes in brown adipose tissue (BAT) and gastrocnemius muscle.
+No	PROT, compared with vehicle, did not alter BAT PROT or PROT mRNA or protein expression when administered to normal ad libitum fed rats.
+Yes	Fasting significantly decreased BAT PROT and PROT mRNA expression, to 31% and 30% of ad libitum fed controls, respectively, effects which were prevented by administration of PROT to fasted rats.
+No	Fasting also significantly decreased BAT PROT protein expression, to 67% of control; however, that effect was not prevented by PROT treatment.
+Yes	Fasting, with or without PROT administration, did not affect BAT PROT mRNA; however, PROT administration to ad libitum fed rats significantly increased BAT PROT mRNA, to 138% of control.
+No	Fasting significantly enhanced gastrocnemius muscle PROT mRNA (411% of control) and protein expression (168% of control), whereas PROT administration to fasted rats did not alter either of these effects.
+Yes	In summary, PROT subtype mRNA and protein are regulated in tissue- and subtype-specific fashion by PROT and food restriction.
+Yes	Signal transduction of PROT-induced arachidonic acid release in H9c2 cardiac myoblasts: role of Ca2+ and the PROT-dependent activation of p42 mitogen-activated protein kinase.
+No	The Ca2+ ionophore, A23187 or ionomycin, mimicked the effect of PROT, whereas the PROT (PKC) activator, TPA, only induced a slight increase in AA release.
+No	Western blots demonstrated expression of PROTalpha, betaI, epsilon, delta, and zeta in H9c2 cells; PROT inhibitors (staurosporine or Ro 31-8220) or down-regulation of PROTalpha, betaI, epsilon, and delta by long-term (24 h) TPA treatment caused a partial blockade of the PROT-induced response, whereas the A23187-induced AA release was unaffected by down-regulation of these isoforms.
+Yes	PROT- or TPA-induced activation and tyrosine phosphorylation of p42 MAPK were completely blocked by down-regulation of PROT, betaI, epsilon, and delta, but still occurred, together with the cytosolic PLA2 mobility shift, in the absence of external Ca2+.
+Yes	These results show that PROT-induced AA release in H9c2 cells is secondary to activation of the V1 receptor/Gq protein/PLCP pathway, leading to an influx of extracellular Ca2+ and activation of PROT, betaI, epsilon, and delta.
+No	Plasma PROT, and some functionally related peptides (CCK, gastrin, somatostatin and PROT), were measured by standard radioimmunoassay techniques.
+Yes	Analyses of hormone regulation of expression of mRNA for the aleurone RNase revealed that, like the pattern for PROT, mRNA levels increased in the presence of PROT, and its antagonist abscisic acid prevented this effect.
+Yes	Quantitative studies at early times demonstrated that cycloheximide treatment of aleurone layers increased mRNA levels 4-fold, whereas a combination of PROT plus cycloheximide treatment was required to increase PROT mRNA levels to the same extent.
+No	The experiments were concluded by taking blood samples for later analysis of plasma glucose and plasma levels of the following hormones: PROT, gastrin, CCK, glucagon, somatostatin, PROT and corticosterone.
+No	The low-performing Stock B animals were characterized by [1] being more reactive to sensory stimulation: higher startle amplitude and shorter startle latency; [2] having higher plasma PROT and corticosterone levels, whereas plasma gastrin and PROT were significantly lowered and a strong tendency for a decrease also in plasma CCK.
+Yes	In normal pancreatic islets, PROT is upregulated by PROT and is low in PROT-resistant islets of ZDF rats.
+No	To determine whether PROT does, in fact, have uncoupling activity and, if so, whether such activity would favorably influence the abnormalities in PROT-unresponsive PROT-underexpressing islets of diabetic ZDF rats, we transferred the PROT gene to the islets of diabetic ZDF rats and lean (+/+) ZDF control rats.
+No	We conclude that PROT has uncoupling function when overexpressed in PROT-insensitive islets and that its overexpression corrects the underexpression of the insulin gene and ameliorates glucose-stimulated insulin secretion, possibly by increasing the ATP:ADP ratio.
+No	Overexpression of G11alpha and isoforms of PROT in islet  beta-cells reveals a lack of correlation between inositol phosphate  accumulation and PROT secretion.
+Yes	It has been suggested that PROT secretion from pancreatic islets may be  mediated in part by activation of PROT (PLCs) and  phosphoinositide hydrolysis.
+Yes	The purpose of this study was to determine  whether the relatively modest fuel-stimulated PROT secretion responses  of rodent beta-cell lines might be explained by inadequate expression or  activation of PROT isoforms.
+No	Adenovirus-mediated overexpression of PROT-delta1, -beta1, or  -beta3 in INS-1 or betaG 40/110 cells results in little or no enhancement  in inositol phosphate (IP) accumulation and no improvement in PROT  secretion when the cells are stimulated with glucose or carbachol, despite  the fact that the overexpressed proteins are fully active in cell  extracts.
+No	Overexpression of PROT-beta1 or -beta3 in normal rat islets  elicits a larger increase in IP accumulation but, again, has no effect on  PROT secretion.
+No	Because the effect of carbachol on PROT secretion is  thought to be mediated through muscarinic receptors that link to the Gq/11  class of heterotrimeric G proteins, we also overexpressed G11alpha in  INS-1 cells, either alone or in concert with overexpression of PROT-beta1  or -beta3.
+No	Overexpression of G11alpha enhances IP accumulation, an effect  slightly potentiated by co-overexpression of PROT-beta1 or -beta3, but  these maneuvers do not affect glucose or carbachol-stimulated PROT  secretion.
+Yes	In the present study we found that at increasing PROT concentrations, increasing numbers of barley (Hordeum vulgare) cells showed the enhanced PROT secretion and vacuolation characteristic of the PROT response.
+Yes	The second class of mutant, gse (PROT sensitivity), differed principally in PROT sensitivity, requiring approximately 100-fold higher [PROT3] for both leaf elongation and PROT production by aleurone.
+No	Phorbol myristate acetate (TPA), an activator of PROT, elicited an increase of MAPK activity, but did not further influence the level of PROT4-8-enhanced MAPK activity; Nevertheless, the extent of CaMKII activation was attenuated by TPA.
+Yes	The PROT-responsive elements conserved in cereal PROT genes are not included in the 5'-upstream region of Rep1 or RepA.
+Yes	Furthermore, our 14C-acetate-labeling studies showed a 50% reduction in PROT synthesis in the presence of either PROT, which could account for the reduction in net apoB secretion caused by incubation with these compounds.
+No	An inhibitor of PROT, Ro31-8220 (10 microM), abolished the ability of PDBu to decrease [Ca(2+)](i), without affecting the response to maximal or submaximal concentrations of PROT.
+Yes	Effects of intravenously infused PROT on insulin sensitivity and on the expression of PROT in brown adipose tissue.
+Yes	Centrally administered PROT has been shown to increase insulin-stimulated glucose utilization and to favor the expression of PROT (UCPs).
+No	To study if PROT also has direct peripherally mediated effects on these processes, this hormone (1 mg/day) or its vehicle was infused i.v. for 4 days to lean rats and insulin-stimulated glucose utilization in skeletal muscle and adipose tissue as well as the expression of PROT messenger RNAs (mRNAs) in brown adipose tissue were measured.
+Yes	I.v. PROT infusion also favored the expression of PROT in brown adipose tissue, either by increasing their expression or preventing the fall occurring during the pair-feeding regimen.
+No	Relative PROT expression levels were 100, 104, and 33 for PROT1, 100, 191, and 125 for PROT2 and 100, 107, and 29 for PROT3 in ad libitum fed control rats, in PROT-treated rats and in pair-fed control rats, respectively.
+Yes	These results suggest that the overall effect of PROT on glucose utilization and on the expression of PROT may be mediated through central mechanism.
+No	The activity of catalase was found to be significantly enhanced in the tissues of normal and PROT fed rats administered 1 mg PROT from brinjal/100 g BW/day.
+Yes	By comparison with the promoters of PROT genes, which are also induced by PROT, we suggest that PROTRE is coupled with the upstream element and the pyrimidine box to form a PROT response complex.
+No	Our data demonstrate, that activation of mitogen activated protein (MAP) kinase alone is sufficient to promote PROT secretion, whereas inhibition of MAP kinase will reduce PROT secretion only when PROT or phosphatidylinositol 3-kinase are additionally inhibited.
+Yes	The expression of uterine PROT and PROT were up-regulated by 3.2- and 1.5-fold, respectively, during the late stage of pregnancy with an increase of WAT PROT mRNA expression and exogenous administration of PROT resulted in induction of the uterine PROT and PROT levels.
+Yes	These results indicate that PROT gene expressions during pregnancy are regulated tissue-dependently, and up-regulation of uterine PROT2 and PROT3 mRNA may be due to increased PROT levels.
+Yes	PROT treatment of fetal guinea pig brain cultures substantially reduced the amount of PROT and PROT in the medium but had no effect on sAPPalpha.
+Yes	When this parental line was treated with PROT, PROT, PROT, and sAPPbeta decreased to levels similar to those observed in the mutant line, and the mutant line was resistant to these effects of PROT.
+Yes	A neurotoxic fragment of PROT, Abeta 25-35, incubated in the presence of endogenous Ca2+, increased significantly the PROT activity of normoxic brain.
+Yes	In its non-aggregated form, PROT activates PROT but in the aggregated form the enzymatic activity decreased.
+Yes	Thus, PROT exerts a similar effect on the membrane-bound PROT from normoxic brain or subjected to ischemia reperfusion injury.
+Yes	Ischemia-reperfusion injury had no effect on PROT-evoked alterations of synaptic plasma membrane-bound PROT.
+No	Sympathetic inhibition, PROT, and PROT subtype expression in normal fasting rats.
+No	To further investigate neural effects on PROT and PROT (UCPs), we studied in vivo perturbations intended to block adrenergic input to peripheral tissues.
+No	We examined plasma PROT, PROT mRNA, and adipose and muscle PROT subtype mRNA in rats treated with alpha-methyl-p-tyrosine methyl ester (AMPT-ME), which inhibits catecholamine synthesis and 6-hydroxydopamine (6HDA), which is toxic to catecholinergic nerve terminals but, unlike AMPT-ME, does not enter the central nervous system.
+No	Intraperitoneal 6HDA, 100 mg/kg, as a single dose at 1800, increased plasma PROT approximately twofold after 18-20 h, increased IBAT (but not epididymal fat) PROT mRNA by two- to threefold, and decreased IBAT PROT mRNA to 30-40% of control.
+No	However, the in vivo modulation of PROT and PROT appears complex and, beyond a causal effect of SNA per se, may depend on concurrent changes in plasma insulin, glucose, and circulatory hemodynamics.
+Yes	PROT beta peptide 25-35 modulates hydrolysis of phosphoinositides by membrane PROT of adult brain cortex.
+Yes	Fresh-water-soluble PROT 25-35 activated PROT in SPM markedly by two- to threefold, but this effect was absent in the presence of 2 mM CaCl2.
+No	Moreover, PROT 25-35 had no effect on basal PROT activity and cytosolic PROT and PROT.
+Yes	The aggregated form of PROT 25-35 significantly inhibited PROT only in the presence of endogenous CaCl2.
+Yes	PROT stimulates tyrosine phosphorylation by activation of PROT in the rat smooth muscle cell line, A-10.
+Yes	The PROT (PKC) inhibitors: staurosporine, H7 and GF109203X are able to block the PROT-stimulated phosphorylation.
+Yes	These results indicate that PROT is upstream of the phosphorylation, a motion which is supported by the fact that the PROT-stimulated phosphorylation was downregulated by phorbol esters.
+Yes	The effects of the fluorinated analogues were evaluated on inhibition of cress seed germination and inhibition of PROT-inducible PROT induction in embryoless barley half-seeds.
+Yes	(2E, 4E)-2-Fluoro-5-(1'-hydroxy-2',6', 6'-trimethyl-2'-cyclohexen-1'-yl)-3-methyl-2,4-pentadienoic acid (5b) showed potent inhibitory activity at the same level as ABA in the cress seed germination test, and 5b also inhibited PROT-inducible PROT induction at 4 x 10(-)(6), 3 times the concentration of ABA (1 x 10(-)(6)) for 50% inhibition of PROT production.
+No	Neurotransmitters and hormones, such as arginine vasopressin (AVP) and bombesin, evoke frequency-modulated repetitive Ca2+ transients in PROT-secreting HIT-T15 cells by binding to receptors linked to PROT (PLC).
+Yes	Isolation and characterization of gibbestatin B, an inhibitor of PROT-induced expression of PROT, and gibbestatin C from streptomycetaes.
+Yes	These results suggest that, in isolated white adipocytes, the released adenosine acts as a helper and/or a positive regulator for PROT in the release of leptin via an activation of adenosine A1 receptors that involves the PROT-PKC pathway.
+No	The etiology for diabetes mellitus in PWS may be related to the morbid obesity and consequent PROT resistance, because a decrease of PROT neurons and leptin resistance in PWS may cause hyperphagia, inducing obesity.
+Yes	We previously showed that PROT (AVP) stimulates heat shock protein 27 (HSP27) induction through PROT activation in aortic smooth muscle A10 cells.
+Yes	Calphostin C and ET-18-OCH(3), inhibitors of PROT, reduced the phosphorylation of p38 MAP kinase by PROT.
+No	PROT-like signaling in yeast: modulation of protein phosphatase 2A, protein kinase A, cAMP-specific phosphodiesterase, and glycosyl-phosphatidylinositol-specific PROT activities.
+Yes	In addition, PROT (PROT), which in isolated rat adipocytes is activated by PROT, was stimulated to up to 5-fold by glucose and 10-fold by glucose plus PROT in both yeast spheroplasts and intact cells leading to a concentration-dependent leftward shift of the glucose-response curve for activation of the PROT.
+Yes	PROT was most pronouncedly stimulated by authentic human PROT compared to various PROT analogues and PROT-like growth factor I.
+No	As the PROT reaction is rate limiting, the efficiency of the two-step anchor cleavage was significantly increased when PROT was present together with glucose as compared to glucose alone.
+Yes	The PROT concentrations effective in modulating PP2A, PKA, cAMP-PDE, and PROT activities correlate well with those required for half-saturation of the specific binding sites as well as for stimulation of protein phosphorylation and glycogen accumulation.
+Yes	The data suggest that mammalian PROT-sensitive cells and yeast share (part of) the key regulatory mechanism (consisting of PP2A, PKA, cAMP-PDE, and PROT) involved in the transduction of the PROT signal from the respective receptor systems to glycogen synthase and phosphorylase.
+No	PROT and PROT (1 and 2) mRNA levels were determined by reverse transcription-polymerase chain reaction (RT-PCR) methodology in adipose tissue and gastrocnemius muscle.
+No	A negative correlation between WAT O2 consumption and PROT expression was found in control animals, but not in the cafeteria-fed groups, suggesting a differential response to the beta3-adrenergic compound in lean and obese animals, which is in agreement with the reported statistical interactions between obesity and Trecadrine administration found for WAT O2 consumption and muscle PROT expression, as well as for plasma PROT and WAT PROT expression.
+Yes	PROT (AVP) and lysophosphatidic acid (LPA) have been shown to stimulate PROT (PKC) and mitogen-activated protein (MAP) kinases and the proliferation of vascular smooth muscle cells.
+Yes	However, PROT-induced activation of RSK2, a downstream substrate of ERK1 and ERK2, was PROT-dependent and PI 3-kinase-independent.
+Yes	PROT was necessary in PROT- but not in LPA-induced activation of p70 S6K.
+Yes	Tolbutamide and diazoxide modulate PROT-linked Ca(2+) signaling and PROT secretion in beta-cells.
+Yes	We examined whether tolbutamide and diazoxide, which close or open ATP-sensitive K(+) channels (K(ATP) channels), respectively, interact with PROT-linked Ca(2+) signals in HIT-T15 and mouse beta-cells and with PROT-linked PROT secretion from HIT-T15 cells.
+Yes	Thus tolbutamide and diazoxide regulate both PROT-linked Ca(2+) signaling and PROT secretion from pancreatic beta-cells by modulating K(ATP) channels, thereby determining voltage-sensitive Ca(2+) influx.
+No	METHODS: We have therefore studied possible associations of the Gln27Glu and the Gly16Arg polymorphisms in the beta2AR with BMI, plasma PROT and PROT mRNA expression in the intraperitoneal adipose tissue in a population of Caucasian women.
+No	Furthermore, no association was found between the Gln27Glu or the Gly16Arg polymorphisms and plasma PROT or adipose tissue PROT gene expression in either group.
+Yes	PROT central injections to intact animals stimulated PROT synthesis and secretion without changing of islets area.
+Yes	Thus, PROT administration stimulates PROT synthesis and secretion in intact and diabetic animals and this effect is more expressed with central injections.
+Yes	Hypothalamic PROT and its neuroendocrine regulation by PROT.
+Yes	Aggregated beta PROT peptide 1-40 decreases Ca2+- and cholinergic receptor-mediated phosphoinositide degradation by alteration of membrane and cytosolic PROT in brain cortex.
+No	The effects of full-length PROT beta protein, A(beta) (1-40), on phosphoinositide-specific PROT (PLC) were investigated in synaptic plasma membranes (SPM) and cytosol prepared from the cerebral cortex of adult rats.
+No	Aggregated PROT also decreased significantly the level of diacylglycerol, the product of PROT.
+Yes	This additionally supports the inhibitory effect of PROT on membrane-bound and cytosolic PROT.
+Yes	Moreover, PROT significantly decreased the basal activity of the PROT in SPM and the enzyme activity regulated through cholinergic receptors.
+Yes	Ca2+ signalling in rat vascular smooth muscle cells: a role for PROT at physiological vasoconstrictor concentrations of PROT.
+No	The PROT (PKC) activator 4beta-phorbol 12-myristate 13-acetate (PMA, 100 pM to 200 nM), also stimulated Ca2+ spiking and this effect was additive with a submaximal concentration of PROT (50 pM).
+Yes	The PROT Ro-31-8220 (1 microM) and calphostin C (250 nM) completely blocked the stimulation of Ca2+ spiking by either PMA or PROT.
+Yes	Time-dependent redistribution of PROT, -delta and -epsilon isoforms between the membrane and cytosolic fractions occurred in response to 100 pM PROT.
+No	Pretreatment for 24 h with 1 microM PMA downregulated expression of PROT and -delta, but not PROT, and prevented the Ca2+-spiking responses to either 1 nM PMA or 100 pM PROT.
+Yes	We conclude that PROT activation is a necessary step in the signal transduction pathway linking low concentrations of PROT to Ca2+ spiking in A7r5 cells.
+No	Ten PROT have been assayed for their ability to phosphorylate in vitro the PROT (25-242) (rbPrP).
+Yes	With regard to PROT, phosphorylation occurs at Ser 154 with a stoichiometry of about 0.1 mol phosphate/mol PROT, which is doubled by mild heat treatment of PROT.
+No	In vivo effects of CGP-12177 on the expression of PROT and PROT genes in mouse brown and white adipose tissues.
+No	OBJECTIVE: To assess the effect of chronic treatment with CGP-12177 a beta3-adrenergic receptor (AR) agonist with beta2/beta1-AR antagonist action, on the expression of the PROT gene and of genes coding for PROT (ucp1, ucp2 and ucp3) in brown and white adipose tissues.
+No	CONCLUSION: The results reveal that simultaneous stimulation of the expression of certain PROT genes and the PROT gene can be achieved, and suggest that adrenergic regulation of the PROT gene and of genes of the PROT family in adipose tissues is the result of complex interactions between the different beta-AR pathways.
+Yes	Furthermore, in SN-56/OBR cells both CNTF and PROT produce changes in neurotransmitter and neuropeptide phenotype characteristic of cholinergic neurons, such as an increase in choline acetyltransferase and vasoactive intestinal polypeptide, and a decrease in PROT expression.
+Yes	Possible central nervous system (CNS) mechanisms could mediate these responses in that PROT receptors are located on hypothalamic neurons that coexpress PROT (NPY) or proopiomelanocortin (POMC) and both peptides that have been implicated as mediators of the CNS action of PROT.
+Yes	PROT has been demonstrated to decrease or down regulate PROT expression and increase POMC expression.
+Yes	Relationship among PROT, PROT, and galanin in young women and in postmenopausal women [see comments].
+No	OBJECTIVE: To determine whether hormonal status may affect PROT (NPY), galanin, and PROT release in postmenopausal women and in young women.
+No	CONCLUSIONS: Our results suggest that the differences is plasma PROT, PROT, and galanin between postmenopausal women and young women may be related to body mass index rather than to differences in hormonal status and that the higher PROT levels in both lean and obese postmenopausal women than in young women indicate that factors other than body mass index may be involved.
+No	We examined for the first time in young men effects of intravenous injections of PROT (4x50 or 100 microg, n = 9 and 11, respectively, at 22.00, 23.00, 24.00 and 01.00 compared to saline) on the sleep electroencephalogram (EEG; recorded from 23.00 to 07.00) and nocturnal secretion of adrenocorticotrophic hormone (ACTH), cortisol, growth hormone (GH), prolactin and PROT.
+Yes	Interestingly, both 5-HT and PROT modulate the action of PROT, which may form a part of a common output pathway for the expression of appetite.
+Yes	The glycosyl-phosphatidylinositol anchored protein, membrane dipeptidase (EC 3.4.13.19) is released from the surface of 3T3-L1 adipocytes in response to PROT treatment through the action of a PROT.
+No	Although X-Pro aminopeptidase (EC 3.4.11.9) is GPI-anchored in 3T3-L1 adipocytes as shown by digestion with bacterial phosphatidylinositol-specific PROT, it was not released upon PROT treatment of the cells, indicating that only a subset of the GPI-anchored proteins are susceptible to PROT-stimulated release.
+No	However, neither progesterone nor PROT increased phosphotyrosine on PROT.
+Yes	PROT is a satiety factor which acts within the hypothalamus to decrease the levels of several neuropeptides stimulating food intake (among them, PROT [NPY]), while increasing those that inhibit food intake.
+Yes	We have studied the effects of neomycin, a potent inhibitor of inositol phospholipid-specific phospholipase C (PLC), on the germination of rice seed and the PROT-induced expression of PROT in the aleurone layer and the scutellar tissues.
+Yes	It was shown that, in the absence of exogenous Ca2+, neomycin markedly reduced the germination speed and seedling growth of rice seeds and inhibited the PROT-induced expression of PROT in both secretory tissues.
+Yes	These results strongly suggest that the phosphoinositide-Ca2+ signal transduction pathway may play an important role in the PROT-induced expression of PROT molecules closely related to the germination processes of rice seed.
+No	PROT-PROT: opposing effects on appetitive and consummatory ingestive behavior and sexual behavior.
+No	Many studies have indicated that PROT (NPY) stimulates and PROT inhibits food intake.
+No	In line with this, intracerebroventricular injection of PROT (10 microg) stimulated and PROT (10 microg) inhibited intake of a sucrose solution when female rats were required to obtain the solution from a bottle.
+No	However, PROT inhibited and PROT stimulated intake if the solution was infused intraorally.
+No	Thus PROT stimulates the responses used to obtain food but inhibits those used to consume food, and PROT has the opposite effects.
+Yes	In the fasting state PROT expression correlated inversely with body mass index (r = -0.45; P = 0.026), percent body fat (r = -0.41; P = 0.05), plasma insulin (r = -0.47; P = 0.02), epigastric venous fatty acids (r = -0.45; P = 0.04), and PROT (r = -0.50; P = 0.018).
+Yes	PROT expression remained inversely related with plasma PROT after controlling for percent body (r = -0.45; P = 0.038).
+Yes	In conclusion, 1) PROT messenger ribonucleic acid expression in sc adipose tissue is inversely related to adiposity and independently linked to local plasma PROT levels; and 2) PROT expression is not acutely regulated by food intake, insulin, or fatty acids.
+No	Thus, highly expressed in human adipocytes, the Y(1) receptor sustains the strong antilipolytic effect of PROT and exerts a positive action on PROT secretion.
+No	Induction of fatty acid translocase/CDPROT6, peroxisome proliferator-activated receptor-gamma2, PROT, PROT and PROT, and tumor necrosis factor-alpha gene expression in human subcutaneous fat by lipid infusion.
+No	Using reverse transcriptase-polymerase chain reaction analysis, the mRNA expression of fatty acid translocase (FAT)/CD36, PPAR-gamma2, PROT, PROT and PROT, and tumor necrosis factor (TNF)-alpha was investigated in gluteal subcutaneous fat biopsies before and after 5 h infusions of saline or Intralipid (Pharmacia and Upjohn, Milan, Italy) plus heparin, which does not modify insulinemia.
+No	Marked increases in FAT/CD36 (724+/-18%; P < 0.05), PPAR-gamma2 (200+/-8%; P < 0.05), PROT (110+/-13%; P < 0.05), PROT (120+/-7%; P < 0.05), PROT (80+/-5%; P < 0.05), and TNF-alpha mRNA (130+/-12%; P < 0.05) were observed in comparison with pretreatment levels, whereas there was no change after saline infusion.
+No	These data suggest that the in vivo gene expression of FAT/CD36, PPAR-gamma2, PROT, PROT, PROT, and TNF-alpha in subcutaneous adipose tissue is regulated by circulating lipids independent of insulin and that prolonged hyperlipidemia may therefore contribute to increased fat metabolism and storage as a result of the increased expression of these proteins.
+No	We previously reported that adiposity and serum PROT levels increase with age in male F-344xBN rats and that when physiological levels of serum PROT are manipulated by fasting, there is a corresponding reciprocal change in hypothalamic PROT (NPY) mRNA in young rats, but there are no changes in older rats.
+Yes	These findings suggest that the regulation of hypothalamic PROT mRNA by PROT may be impaired with age.
+No	We examined daily food consumption, body weight, whole-body oxygen consumption, serum PROT, and PROT mRNA in the hypothalamus.
+Yes	PROT infusion diminished hypothalamic PROT levels by nearly 50% compared with pair-fed young rats, whereas there were no changes in the hypothalamic PROT mRNA levels in senescent rats.
+No	These diminished responses to PROT were associated with and may be the result of an impaired suppression of hypothalamic PROT mRNA levels.
+No	C75 inhibited expression of the prophagic signal PROT in the hypothalamus and acted in a PROT-independent manner that appears to be mediated by malonyl-coenzyme A.
+No	The aims of this study were: (1) to assess the effects of maternal undernutrition during pregnancy on adult offspring with regard to growth, body composition and plasma levels of glucose, PROT and corticosterone, and (2) to investigate whether PROT treatment early in life could ameliorate the adverse effects of food restriction in utero.
+Yes	Interactions between PROT and PROT affecting lipid mobilization in adipose tissue.
+No	The aim of the current investigations was focused on the study of the involvement of PROT and PROT in lipid mobilization.
+No	The lipolytic rate was assessed through glycerol release after incubation with PROT and PROT at concentrations ranging from 10(-6) to 10(-12) M in isolated adipocytes obtained from female rats.
+No	At equimolar concentrations of PROT and PROT (10(-12) to 10(-6) M) the observed lipolytic activity is comparable to the basal lipolytic activity, except at a concentration of 10(-9) M where upon a significant increase in lipolysis is observed.
+Yes	Summing up, new evidence suggests that PROT and PROT may interact in a homeostatic loop to regulate body-fat mass and energy balance not only at the central nervous system level, but also directly at the adipocyte level.
+No	The PROT specific inhibitor Go-6983 further enhanced the inhibitory effect of VACM-1 on PROT-stimulated cAMP production.
+No	Pretreatment of HEK-293 cells for 2 min with carbachol, a mAChR agonist, lysophosphatidic acid, or ATP, followed by agonist washout, strongly increased (by 2-3-fold) maximal PROT stimulation (measured >/=40 min later) by epidermal growth factor and platelet-derived growth factor, but not PROT, and largely enhanced PROT sensitivity to these RTK agonists.
+Yes	Involvement of thyroid hormones in the effect of intracerebroventricular PROT infusion on PROT expression in rat muscle.
+Yes	A reduction of food intake imposed on control rats (pair-feeding), aimed at mimicking PROT-induced hyperphagia, produced a marked decrease in the expression of muscle PROT (PROT), whereas ICV infusion of PROT prevented such a decrease in PROT.
+Yes	To further substantiate an involvement of thyroid hormones in the effect of PROT on muscle PROT expression, hypothyroid rats were ICV infused with PROT or vehicle.
+Yes	It was observed that in hypothyroid rats, ICV PROT was unable to maintain muscle PROT expression at values measured in ad libitum fed controls.
+Yes	These results suggest that central PROT stimulates T3 production via an activation of T4 to T3 conversion, and that this stimulation could be responsible for the effect of PROT on muscle PROT expression.
+No	The body mass index (BMI), PROT, plasma PROT (NPY), serotonin, thyroxine (T4), triiodothyronine (T3) and reverse triiodothyronine (rT3) in serum were evaluated for each subject.
+No	Influence of obesity and menopausal status on serum PROT, cholecystokinin, galanin and PROT levels.
+No	Obesity occurs in 60% of women after menopause and is characterized by an excess of adipose tissue that depends on several orexigenic (PROT (NPY) stimulates carbohydrate ingestion, galanin stimulates fat intake) and anorectic (PROT, cholecystokinin (CCK)) factors.
+Yes	Both PROT and insulin can reduce hypothalamic PROT production and secretion.
+No	We investigated basal levels of serum PROT, CCK, galanin and PROT in 16 non-obese premenopausal women, in 15 obese premenopausal women (body mass index (BMI) 34.6 +/- 1.3 SD) and in ten obese postmenopausal women (BMI 34.7 +/- 1.5 SD) to determine the relationship between obesity, menopause and these neuropeptides.
+No	Significantly increased PROT and galanin levels in postmenopausal obese women coupled with decreased PROT levels revealed some changes in the neuropeptides regulating eating behavior, which may be the reason for the onset of postmenopausal obesity.
+No	PROT (PLC) activity was investigated by stimulation of membrane preparations obtained from PROT (beta-TC3)-, somatostatin (Rin 1027-B2)-, and glucagon (INR1-G9)-producing pancreatic cell lines using the non-hydrolyzable GTP analogue GTPgammaS alone, the C-terminal octapeptide cholecystokinin (CCK-8), or gastrin.
+Yes	Therefore, it was examined whether stimulation of Swiss 3T3 cells with PROT causes changes in the subcellular distribution of EGF receptors and PROT that could potentially explain the observed synergy or costimulation.
+Yes	However, both EGF and PROT stimulated the accumulation of PROT at the actin arc, which was coincident with the EGF receptor in the case of PROT- stimulated cells.
+Yes	Therefore, it is suggested that the PROT-induced coclustering of the EGF receptor with PROT at the actin arc may allow for greater efficiency of signal transduction, resulting in the synergy observed for these two hormones in stimulation of DNA synthesis.
+No	We have established that the recovery of secreted PROT is increased by the PROT agonists PDBu and PMA in a time- and dose-dependent manner in both cell lines.
+No	In contrast, secretion of PROT remains unaffected by the inactive PDBu analog alphaPDD and by the PROT effectors dibutyryl cAMP and forskolin.
+Yes	Overall, our data indicate that the normal processing of PROT is up-regulated by PROT but not PROT in human cells and murine neurons.
+Yes	Dietary intakes of PROT, PROT and isoPROT by Japanese women and the inverse correlation between quercetin intake and plasma LDL PROT concentration.
+Yes	The total intake of PROT was inversely correlated with the plasma total PROT concentration (TC) (r = -0.236, P: < 0.05) and plasma LDL PROT concentration (LDL-C) (r = -0.220, P: < 0.05), after the adjustment for age, body mass index and total energy intake.
+No	Although the above data are consistent with a direct ability of PROT to promote TRH biosynthesis through actions on TRH neurons, addition of a-MSH produced a 3.5 fold increase in TRH biosynthesis and release, whereas PROT treatment suppressed ~3 fold proTRH biosynthesis.
+Yes	For example, PROT suppresses PROT (NPY) expression in the arcuate nucleus.
+Yes	As expected, in fusion of PROT alone (18 microg/day) augmented food intake (191.6% over the initial control, P < 0.05) and produced a 25.1% weight gain in conjunction with a 10-fold increase in serum PROT concentrations at the end of the 7-day period.
+Yes	Interestingly, coinfusion of this regimen of PROT with the highly effective anorectic and body reducing effects of CNTF (5.0 microg/day) not only prevented the CNTF-induced anorexia and weight loss, but also normalized serum PROT concentrations and hypothalamic PROT gene expression.
+No	These results demonstrate that chronic central infusion to produce a persistent elevation of the cytokine at pathophysiological levels (a situation that may normally manifest during infection, injury and inflammation) produced severe anorexia and weight loss in conjunction with reduction in both serum PROT concentrations and hypothalamic PROT gene expression.
+Yes	A caveolin-1-dependent coupling of PROT to the PROT was observed.
+Yes	Recently several significant advances have been made in this area, including the identification of the appetite regulating hormone, PROT, and a detailed understanding of its targets in the central nervous system (CNS), such as PROT (NPY) and the melanocortin-4 receptor.
+Yes	A loop system exists between hypothalamic PROT (NPY) and peripheral adipose tissue PROT to maintain normal body homeostasis.
+Yes	When infused i.c.v. to normal rats to mimic its central effects, PROT decreases PROT levels, thus food intake and body weight.
+No	Circadian fluctuations of PROT and PROT levels maintain normal body homeostasis.
+Yes	PROT increases the expression of PROT (UCP-1, -2, -3) and thus energy dissipation.
+Yes	Activity and expression of the three PROT's are stimulated by several neuromediators and hormones such as noradrenaline, tri-iodothyronine and PROT.
+Yes	The effect of PROT in adult rats appears to be exerted at hypothalamic level by regulating growth hormone releasing hormone (GHRH), somatostatin and PROT (NPY)-producing neurones.
+No	Plasma insulin, cholecystokinin, galanin, PROT and PROT levels in obese women with and without type 2 diabetes mellitus.
+No	Experimental studies provided evidences that PROT, cholecystokinin (CCK), galanin (GAL), PROT (NPY) and insulin are involved in feeding behaviour.
+No	Plasma concentrations of FSH, PROT, CCK, GAL, PROT and insulin were determined using commercial RIA kits.
+No	Our results, ie higher mean plasma PROT levels in postmenopausal diabetic women and positive correlation of CCK with PROT and insulin, may suggest the role of these neuropeptides in metabolic disorders leading to type 2 diabetes mellitus.
+No	These results suggest that T3 may increase PROT family expression independent of PROT action.
+No	The ARC PROT neurones are stimulated by starvation, probably mediated by falls in circulating PROT and insulin (which both inhibit these neurones), and contribute to the increased hunger in this and other conditions of energy deficit.
+No	ARC PROT neurones also mediate hyperphagia and obesity in the ob/ob and db/db mice and fa/fa rat, in which PROT inhibition is lost through mutations affecting PROT or its receptor.
+No	PROT secretion, inositol phosphate levels, and PROT isozymes in rodent pancreatic islets.
+Yes	These findings are consistent with the concept that the underexpression of the nutrient-activated PROT isozyme may account for the minimal inositol phosphate (IP) and second-phase PROT secretory response from mouse islets.
+Yes	Gibbestatin B inhibits the PROT-induced expression of PROT expression in cereal seeds [In Process Citation].
+Yes	The expression of PROT in aleurone layers of barley is known to be induced by PROT (GA).
+Yes	In the present study, gibbestatin B (GNB) was isolated from Streptomyces sp. C-39 as an inhibitor of the PROT-induced expression of PROT in barley and rice, with IC50 values of 125 and 70 microM, respectively.
+Yes	GNB suppressed accumulation of PROT-induced barley high-pI type B and rice RAmylA PROT transcripts.
+Yes	These analyses indicate that GNB inhibits the PROT-induced expression of PROT by regulating one of the steps involved in ABA signaling, but not by acting as a weak ABA analog.
+Yes	We also determined whether well known hypothalamic neuropeptide targets, e.g. PROT (NPY), proopiomelanocortin (POMC), agouti-related peptide (AGRP) and cocaine and amphetamine-regulated transcript (CART) were regulated in a pattern consistent with their presumed roles as mediators of PROT action.
+Yes	In contrast, PROT decreased body weight and adiposity, increased CART and suppressed PROT and AGRP mRNA expression in adult mice.
+No	These findings are consistent with increased PROT signaling to the PROT and POMC neurons in the ARC by physiological levels of circulating PROT during normal feeding.
+Yes	PROT effects on pulsatile gonadotropin releasing hormone secretion from the adult rat hypothalamus and interaction with cocaine and amphetamine regulated transcript peptide and PROT [In Process Citation].
+Yes	PROT may act as a negative feedback signal to the hypothalamic control of appetite through suppression of PROT (NPY) secretion and stimulation of cocaine and amphetamine regulated transcript (CART).
+No	We aimed at studying the effects of PROT, CART and PROT on the hypothalamic control of the pituitary-gonadal system.
+No	The increase in GnRH pulse amplitude caused by PROT was totally prevented by coincubation with an anti-CART antiserum whereas it was not affected by coincubation with the PROT Y5-receptor antagonist (10(-7) M).
+No	In conclusion, PROT and PROT show separate permissive effects on GnRH secretion in the adult rat hypothalamus.
+Yes	Similarly, central PROT treatment also had a greater effect in suppressing hypothalamic PROT mRNA expression in young (-23+/-4%) than in old (-8+/-4%) rats compared with their age-matched pair-fed treated rats.
+Yes	Compared with the wild type, PROT induction of PROT activity in aleurone cells of d1 was greatly reduced.
+Yes	Relative to the wild type, the PROT(3)-treated aleurone layer of d1 had lower expression of Ramy1A, which encodes PROT, and OsPROTMYB, which encodes a PROT-inducible transcriptional factor, and no increase in expression of Ca(2 +)-ATPase.
+Yes	However, in the presence of high PROT concentrations, PROT induction occurred even in d1.
+Yes	All these results suggest that d1 affects a part of the PROT-signaling pathway, namely the induction of PROT in the aleurone layer and internode elongation.
+No	Finally, recent evidences suggest that melanocortins could be involved in mediating the effects of PROT, and in controlling the expression of PROT (NPY).
+Yes	PROT-induced phospholipase D1 and phospholipase D2 activity in human embryonic kidney-293 cells mediated by the PROT and protein kinase Calpha signalling cascade.
+No	Co-expression of PLD1 with PROT has the same effect, while co-expression of PLD2 with PROT allows PLD2 activity to be stimulated in an PROT-dependent manner.
+No	The PKC-specific inhibitors bisindolylmaleimide and Go 6976 abolish PROT-induced PLD2 activation in HEK-293 cells co-expressing the PROT receptor, PROT and PLD2, confirming that not only PLD1, but PLD2 as well, is regulated in a PKC-dependent manner.
+Yes	In summary, we demonstrate that PROT treatment results in activation of both PLD1 and PLD2 in appropriate cell types when the appropriate upstream intermediate signalling components, i.e. PKCalpha and PROT, are expressed at sufficient levels.
+Yes	PROT Rapidly Inhibits Hypothalamic PROT Secretion and Stimulates Corticotropin-Releasing Hormone Secretion in Adrenalectomized Mice.
+Yes	PROT may rapidly inhibit food intake by altering the secretion of hypothalamic neuropeptides such as PROT (NPY), a stimulator of food intake, and/or corticotropin-releasing hormone (CRH), an inhibitor of food intake.
+No	We measured concentrations of PROT and CRH in specific hypothalamic regions [i.e., arcuate nucleus (ARC), paraventricular nucleus (PVN), ventromedial nucleus and dorsomedial nucleus] of 7- to 8-wk-old lean and ob/ob mice at 1 or 3 h after intracerebroventricular PROT administration.
+No	No rapid-onset effects of PROT on hypothalamic PROT or CRH concentrations were observed in intact mice.
+No	The addition of PROT to hypothalamic preparations from intact mice also did not alter PROT or CRH secretion.
+Yes	Within 20 min after exposure to PROT, PROT secretion from hypothalamic preparations obtained from adrenalectomized mice was lowered by 27% and CRH secretion was elevated by 51%.
+Yes	The current study demonstrates that PROT rapidly influences the secretion of hypothalamic PROT and CRH and that these actions of PROT within the hypothalamus are restrained by the presence of endogenous corticosterone.
+No	Both receive information about the nutritional status and the level of energy storage through insulin and PROT signaling mediated by specific receptors located on POMC and PROT neurons present predominantly in the arcuate nucleus (ARC).
+No	When PROT signaling is defective, through a defect in either the receptor (Zucker fa/fa rat, cp/cp rat, and db/db mouse) or in the peptide itself (ob/ob mouse), the PROT system is upregulated as shown by mRNA overexpression and increased peptide release, whereas the content and/or release of some inhibitory peptides (neurotensin, cholecystokinin) are diminished.
+Yes	PROT as a modulator of PROT.
+Yes	On the basis of far-Western blot and plasmon resonance (BIAcore) experiments, we show here that recombinant PROT (bPrP) (25-242) strongly interacts with the catalytic alpha/alpha' subunits of PROT (also termed 'casein kinase 2').
+No	We also show that PROT counteracts the inhibition of calmodulin phosphorylation promoted by the regulatory beta subunits of PROT.
+Yes	A truncated form of PROT encompassing the C-terminal domain (residues 105-242) interacts with PROT but does not affect its catalytic activity.
+Yes	These results disclose the potential of the PROT to modulate the activity of PROT, a pleiotropic PROT that is particularly abundant in the brain.
+Yes	Arcuate nucleus PROT mRNA increased in rats given protein-free diet, correlating with PROT rather than decreased feeding.
+Yes	The induction of PROT triggered by PROT in barley embryos is repressed by sugars.
+No	Our results indicate that glucose represses PROT signalling late along this hormone transduction pathway, downstream of transcription of the PROT-modulated transcriptional activator (GAMYB) needed for PROT induction.

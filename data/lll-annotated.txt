@@ -1,0 +1,77 @@
+Yes	In vivo studies of the activity of four of the kinases, KinA, PROT, PROT (ykvD) and KinE (ykrQ), using abrB transcription as an indicator of PROT level, revealed that PROT and PROT were responsible for PROT production during the exponential phase of growth in the absence of KinA and KinB.
+Yes	In this mutant, expression of the PROT gene, whose transcription depends on both PROT and the phosphorylated PROT protein, PROT~P, a major transcription factor during early stages of sporulation, was greatly reduced at 43 degrees C.
+Yes	Transcription of PROT was dependent on PROT, and the mRNA was detectable from 2 h after the cessation of logarithmic growth (T2 of sporulation).
+Yes	PROT was transcribed by PROT RNA polymerase from T4 of sporulation.
+Yes	Both PROT and PROT were essential for PROT expression, and this gene was transcribed from T5 of sporulation.
+Yes	Analysis of the expression of a translational PROT-lacZ fusion showed that PROT expression is sporulation-specific, and is controlled predominantly by the forespore-specific sigma factor PROT, and to a lesser extent by PROT.
+Yes	Secondly, PROT is essential for the activation of the first compartment-specific transcription factor PROT in the prespore.
+Yes	Localization of PROT was shown to be dependent on the essential cell division protein PROT.
+Yes	In the shaA mutant, PROT-dependent expression of PROT and PROT at an early stage of sporulation was sensitive to external NaCl.
+Yes	The expression of PROT is under the control of both PROT and PROT.
+Yes	Expression of the PROT-dependent PROT gene depended on PROT.
+Yes	Our results indicate that the level of PROT level in outgrowing spores depends mainly on PROT, because sigB mutants show normal PROT activity in dormant and outgrowing spores.
+Yes	Therefore, the physiological role of PROT-dependent PROT expression remains obscure.
+Yes	The -10 and -35 sequences of the PROT- and PROT-dependent promoters of PROT overlap, and the transcriptional start points used by EPROT and EPROT differ by only one nucleotide.
+Yes	We demonstrated that PROT is also a PROT-dependent general stress gene, since it is strongly induced by heat, salt and ethanol stress, as well as by energy depletion.
+Yes	Taken together, the results support the idea that sequestration of PROT protein into the prespore plays an important role in the control of PROT activation and in coupling this activation to septation.
+Yes	PROT is controlled by a regulatory cascade involving an anti-sigma factor, PROT, an anti-anti-sigma factor, PROT, and a membrane-bound phosphatase, PROT, which converts the inactive, phosphorylated form of PROT back to the active form.
+Yes	The PROT gene of Bacillus subtilis, encoding a catabolic glutamate dehydrogenase, is transcribed by PROT-containing RNA polymerase and requires for its expression PROT, a member of the NtrC/NifA family of proteins that bind to enhancer-like elements, called upstream activating sequences (UAS).
+Yes	Unlike the case for other PROT-dependent genes, PROT has no UAS; instead, its expression depends on a sequence located 1.5 kilobases downstream of the PROT promoter, beyond the end of the PROT coding region.
+Yes	In addition to controlling transcription of PROT, PROT appears to control expression of at least one other gene required for production of CSF.
+Yes	Northern blot and primer extension analyses indicated that PROT is transcribed by PROT during sporulation.
+Yes	These results suggest that PROT may act as a negative regulator for the transcription of PROT, PROT, PROT and PROT.
+Yes	Production of PROT about 1 h earlier than normal does affect PROT, which when phosphorylated is an activator of PROT transcription.
+Yes	The PROT promoter, like the PROT promoter, is believed to be recognized by PROT RNA polymerase, suggesting that PROT may inhibit PROT activity late in sporulation.
+Yes	In the mother cell compartment of sporulating cells, expression of the PROT gene, encoding the earlier-acting sigma factor, sigmaE, is negatively regulated by the later-acting sigma factor, PROT.
+Yes	The first stage, which involves the phosphatase function of PROT, depends on the cell division protein PROT and could correspond to the PROT-dependent assembly of PROT into E-rings.
+Yes	Evidence based on the use of modified and mutant forms of the phosphatase protein indicates that PROT blocks the capacity of unphosphorylated PROT to activate PROT until formation of the polar septum is completed.
+Yes	Cell-specific activation of transcription factor PROT during sporulation in Bacillus subtilis requires the formation of the polar septum and the activity of a serine phosphatase (PROT) located in the septum.
+Yes	The PROT phosphatase indirectly activates PROT by dephosphorylating a protein (PROT) in the pathway that controls the activity of the transcription factor.
+Yes	Dephosphorylation of PROT by PROT is strictly dependent on the presence of the bivalent metal ions Mn2+ or Mg2+.
+Yes	(i) The finding that the PROT operon is under PROT control indicates that the elimination of multidrug compounds might be a new function in multiple stress resistance.
+Yes	The PROT gene might belong to the increasing number of PROT-dependent genes whose orthologues are under the control of sigmas in Escherichia coli, indicating that both regulons may fulfil similar functions.
+Yes	Three new PROT-dependent genes (PROT, PROT and PROT) encoding proteins with still unknown functions were also described.
+Yes	Cell specificity is first established in the forespore under the control of the PROT factor, which is itself activated through the action of the PROT serine phosphatase, an enzyme targeted to the septum between the two cells.
+Yes	Most PROT genes, and the PROT gene, are transcribed by PROT RNA polymerase.
+Yes	Previously, it was shown that the PROT protein inhibits transcription in vitro of the PROT gene encoding sigmaK.
+Yes	These results demonstrate that PROT-dependent transcription of PROT initiates a negative feedback loop in which PROT acts as a repressor to limit production of PROT.
+Yes	A low level of PROT activated transcription of PROT by PROT RNA polymerase in vitro, but a higher level of PROT repressed PROT transcription.
+Yes	Here, we show that PROT binds near the PROT transcriptional start site, to act as a repressor.
+Yes	We show that PROT binds to two sites that span the -35 region of the PROT promoter.
+Yes	These results suggest that a rising level of PROT in sporulating cells may first activate PROT transcription from the upstream site then repress transcription as the downstream site becomes occupied.
+Yes	PROT transcription also requires the DNA binding protein PROT.
+Yes	In contrast, PROT is transcribed in the forespore compartment by RNA polymerase with the forespore-specific PROT and appears to give a monocistronic transcript.
+Yes	PROT negatively controls the transcription of PROT by stimulating the transcription of PROT-PROT, thereby increasing the production of the PROT antisigma factor that inhibits PROT activity.
+Yes	This stress-induced increase in PROT expression is absolutely dependent on the alternative sigma factor PROT, which controls a large stationary-phase and stress regulon.
+Yes	PROT also contributes to the expression of PROT, a putative membrane-bound glucosyl transferase that is partially controlled by the PROT stress response sigma factor.
+Yes	Transcriptional studies showed that PROT is strongly induced in response to heat, ethanol and salt stress or after starvation for glucose in a PROT-dependent manner.
+Yes	Furthermore, PROT and PROT seemed to be induced after phosphate starvation in the wild type in a PROT-dependent manner and in the sigB mutant probably via PROT.
+Yes	The expression of the PROT operon was induced by the presence of isoleucine or valine in the growth medium and depended upon the presence of the sigma factor PROT, a member of the sigma 54 family.
+Yes	From these results we conclude that PROT negatively regulates PROT expression by preventing PROT-driven transcription of PROT, possibly through interaction with the control region.
+Yes	We have shown previously that the transcription of PROT is driven by an alternative sigma factor, PROT.
+Yes	DNase I footprinting showed that PROT binds strongly to two sites in the PROT promoter region, binds weakly to one site in the PROT promoter, and does not bind specifically to PROT.
+Yes	Transcription of the PROT, PROT, and PROT genes by final PROT RNA polymerase is activated by a small, DNA-binding protein called PROT.
+Yes	In vitro transcription experiments suggest that the differential pattern of PROT gene expression results from the combined action of PROT and another transcription factor, PROT.
+Yes	A low concentration of PROT activated PROT transcription by final PROT RNA polymerase, whereas a higher concentration was needed to activate transcription of PROT or PROT.
+Yes	PROT at low concentration repressed PROT transcription, whereas a higher concentration only partially repressed PROT transcription and had little effect on PROT transcription.
+Yes	Primer extension experiments and Northern blot analysis show that an active PROT-dependent promoter precedes PROT and transcription is terminated at the putative p-independent terminator downstream of kdgT.
+Yes	A PROT-dependent promoter (PW) precedes PROT, demonstrating that this transcription factor is positively autoregulated.
+Yes	We overproduced and purified PROT from Escherichia coli and demonstrate that in vitro, both PROT and PROT holoenzymes recognize promoter elements within the PROT-PROT control region.
+Yes	The results indicate that PROT is sufficient to repress the transcription of the PROT and PROT promoters and also to activate the transcription of the PROT promoter.
+Yes	Transcriptional studies demonstrated that the expression from the PROT promoter is induced by L-arabinose, repressed by glucose, and negatively regulated by PROT.
+Yes	During endospore formation in Bacillus subtilis, the DNA binding protein PROT stimulates transcription from several promoters that are used by RNA polymerase containing PROT.
+Yes	PROT binds to a site on one of these promoters, PROT, that overlaps its -35 region.
+Yes	However, the mutant was unable to stimulate transcription by final PROT-RNA polymerase from the PROT-dependent PROT operon promoter.
+Yes	The Bacillus subtilis PROT operon is regulated by two stress induction pathways relying on either PROT or a class III stress induction mechanism acting at a PROT-like promoter.
+Yes	Our data demonstrate that the PROT protein acts as a global repressor of the PROT operon, as well as other class III heat shock genes, by preventing unstressed transcription from either the PROT- or PROT-dependent promoter and might be inactivated or dissociate under inducing stress conditions.
+Yes	The PROT-dependent promoter drives expression of PROT under stress conditions and after glucose starvation, whereas a PROT-dependent promoter is responsible for PROT transcription following amino acid limitation.
+Yes	This indicates that the PROT gene product, being a member of both the PROT and PROT regulons, might negatively regulate the activity of the PROT regulon.
+Yes	In addition to the typical PROT-dependent, stress- and starvation-inducible pattern, PROT is also induced in response to amino acid depletion.
+Yes	Therefore, PROT is solely expressed during sporulation from a PROT- and PROT-controlled promoter that is located immediately upstream of PROT inside the smc gene.
+Yes	In that respect PROT is similar to the previously described gene PROT which is also a member of the PROT regulon.
+Yes	The addition of PROT to in vitro transcription reactions resulted in the stimulation of RNAP holoenzyme activity, but PROT-RNAP was observed to be more sensitive to PROT-dependent stimulation than PROT-RNAP.
+Yes	Although PROT is transcriptionally regulated by the key regulatory device that controls sporulation initiation, the PROT phosphorelay, there is considerable evidence implicating a mechanism of post-translational control that governs the activity and concentration of sigmaH.
+Yes	The class includes AsiA form bacteriophage T4, which inhibits Escherichia coli sigma 70; PROT, present in both gram-positive and gram-negative bacteria, which inhibits the flagella sigma factor PROT; PROT, which inhibits the sporulation-specific sigma factor, PROT and PROT, of Bacillus subtilis; PROT of B. subtilis, which inhibits stress response sigma factor PROT; and PROT, a general regulator of the heat shock response, which in bacteria inhibits the heat shock sigma factor PROT.
+Yes	Finally, we show that proper localization of SpoIVA required the expression of one or more genes which, like PROT, are under the control of the mother cell transcription factor PROT.
+Yes	The PROT and PROT genes are recognized primarily by the forespore-specific sigma factor for RNA polymerase, PROT; the PROT-PROT operon is recognized equally well by PROT and the other forespore-specific sigma factor, PROT.
+Yes	The PROT regulon includes a penicillin binding protein (PROT) and a co-transcribed amino acid racemase (PROT), homologues of signal peptide peptidase (PROT), flotillin (PROT), ABC transporters (PROT), non-haem bromoperoxidase (PROT), epoxide hydrolase (PROT) and three small peptides with structural similarities to bacteriocin precursor polypeptides.

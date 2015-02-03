@@ -1,0 +1,40 @@
+10
+
+dir
+145
+svn+ssh://max/data/subversion/geniaJ/resources
+svn+ssh://max/data/subversion
+
+
+
+2010-06-23T10:09:06.466904Z
+145
+claude
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5a0863c8-7003-42b4-869d-0e7aeff0ddb2
+
+models_medline
+dir
+
+models_named_entity
+dir
+
+morphdic
+dir
+
+models_chunking
+dir
+
